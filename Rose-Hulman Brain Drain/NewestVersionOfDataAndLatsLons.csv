@@ -1,0 +1,1180 @@
+,Company,Major,City,State,Accept,CityState,lats,lons,County
+0,ACCELERATED MACHINE & DESIGN,ME,Rockford,IL,A,"('Rockford', 'IL')",42.2711311,-89.0939952,Winnebago
+1,ARCHER DANIELS MIDLAND,CHE,Decatur,IL,A,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+2,ARCHER DANIELS MIDLAND,CHE,Clinton,IA,A,"('Clinton', 'IA')",41.8444735,-90.1887379,Clinton
+3,ARCHER DANIELS MIDLAND,EE,Lincoln,NB,A,"('Lincoln', 'NB')",45.905402,-66.579492,York
+4,ARCHER DANIELS MIDLAND,EE,Decatur,IL,A,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+5,"AG&E ASSOCIATES, P.L.L.C.",CE,Addision,TX,A,"('Addision', 'TX')",32.96179,-96.82916850000001,Dallas
+6,AIM MACHINERY,ME,Merrillville,IN,A,"('Merrillville', 'IN')",41.4828144,-87.33281389999999,Lake
+7,ALCOA,ME,"Dover,",NJ,A,"('Dover,', 'NJ')",40.883988,-74.5621025,Morris
+8,ALCOA,ME,"Dover,",NJ,A,"('Dover,', 'NJ')",40.883988,-74.5621025,Morris
+9,ALLEGIENT TECHNOLOGIES,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+10,ALLSTATE INSURANCE,CS,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+11,AMAZON,CS,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+12,AMAZON,CS,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+13,AMAZON,CS,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+14,AMAZON,CS,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+15,AMAZON,CS,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+16,AMAZON,CS,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+17,APACHE CORPORATION,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+18,ARCELOR MITTAL,EE,Conshohoken,PA,A,"('Conshohoken', 'PA')",40.0792766,-75.3015714,Montgomery
+19,ARCELOR MITTAL,CHE,Burns Harbor,IL,A,"('Burns Harbor', 'IL')",41.6258708,-87.1333676,Porter
+20,BABCOCK & WILCOX,CE,Denver,CO,A,"('Denver', 'CO')",39.737567,-104.9847179,Denver
+21,BOOZ ALLEN HAMILTON,SE,Annapolis Junction,MD,A,"('Annapolis Junction', 'MD')",39.130937,-76.7933133,Anne Arundel
+22,BOOZ ALLEN HAMILTON,CS,Annapolis Junction,MD,A,"('Annapolis Junction', 'MD')",39.130937,-76.7933133,Anne Arundel
+23,BOSTIK,CHE CHEM,Milwaukee,WI,A,"('Milwaukee', 'WI')",43.0389025,-87.9064736,Milwaukee
+24,BOSTON SCIENTIFIC,BE,Spencer,IN,A,"('Spencer', 'IN')",39.2867117,-86.7625058,Owen
+25,BP,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+26,BP3 GLOBAL,CS,Austin,TX,A,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+27,BRISTOL MYERS SQUIBB,CHEM,Mount Vernon,IN,A,"('Mount Vernon', 'IN')",37.9322662,-87.8950267,Posey
+28,C&I ENGINEERING,CHE,Louisville,KY,A,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+29,CANRIG DRILLING COMPANY,EE,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+30,CATERPILLAR,ME,Peoria,IL,A,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+31,CATERPILLAR,ME EE,Peoria,IL,A,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+32,CHRYSLER,ME,Auburn Hills,MI,A,"('Auburn Hills', 'MI')",42.6875323,-83.2341028,Oakland
+33,CHRYSLER,ME,Auburn Hills,MI,A,"('Auburn Hills', 'MI')",42.6875323,-83.2341028,Oakland
+34,COOK MEDICAL,BE,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+35,CORNERSTONE CONTROLS,EE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+36,CORNERSTONE CONTROLS,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+37,CUMMINS,ME,Seymour,IN,A,"('Seymour', 'IN')",38.9592201,-85.8902547,Jackson
+38,DAJAC,CPE,Westfield,IN,A,"('Westfield', 'IN')",40.0428151,-86.1274888,Hamilton
+39,ARCHER DANIELS MIDLAND,CHE,Decatur,IL,A,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+40,DEKA,ME,Manchester,NH,A,"('Manchester', 'NH')",42.9956397,-71.4547891,Hillsborough
+41,DELEK REFINERY,ME,Tyler,TX,A,"('Tyler', 'TX')",32.3512601,-95.30106239999999,Smith
+42,DELEK REFINERY,CHE,Tyler,TX,A,"('Tyler', 'TX')",32.3512601,-95.30106239999999,Smith
+43,DELPHI,ME EE,Kokomo,IN,A,"('Kokomo', 'IN')",40.486427,-86.13360329999999,Howard
+44,DELPHI,SE,Auburn Hills,MI,A,"('Auburn Hills', 'MI')",42.6875323,-83.2341028,Oakland
+45,DILAS DIODE LASER INC.,OE,Tucson,AZ,A,"('Tucson', 'AZ')",32.2217429,-110.926479,Pima
+46,DMC,ME,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+47,DOW CHEMICAL,CHE,Deer Park,TX,A,"('Deer Park', 'TX')",29.7052284,-95.1238204,Harris
+48,DOW CHEMICAL,CHE,Freeport,TX,A,"('Freeport', 'TX')",28.9541368,-95.35966169999999,Brazoria
+49,DOW CHEMICAL,CHE,Freeport,TX,A,"('Freeport', 'TX')",28.9541368,-95.35966169999999,Brazoria
+50,DWYER INSTRUMENTS,BE,Michigan City,IN,A,"('Michigan City', 'IN')",41.70753939999999,-86.8950297,Laporte
+51,ELI LILLY,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+52,ELI LILLY,CHE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+53,ELI LILLY,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+54,ELI LILLY,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+55,ELI LILLY,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+56,ENOVA,SE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+57,EPIC SYSTEMS,SE,Madison,WI,A,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+58,EXACTECH,BE,Gainesville,FL,A,"('Gainesville', 'FL')",29.6516344,-82.32482619999999,Alachua
+59,EXXON MOBIL,CHE,Baytown,TX,A,"('Baytown', 'TX')",29.7355047,-94.97742740000001,Harris
+60,EXXON MOBIL,CHE,Baton Rouge,LA,A,"('Baton Rouge', 'LA')",30.4582829,-91.1403196,East Baton Rouge
+61,EXXON MOBIL,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+62,FARAH & SONS,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+63,FEXWARE INNOVATIO0N,EE,Fishers,IN,A,"('Fishers', 'IN')",39.9567548,-86.01335,Hamilton
+64,FORD,ME,Dearborn,MI,A,"('Dearborn', 'MI')",42.3222599,-83.17631449999999,Wayne
+65,FORD,EE,Dearborn,MI,A,"('Dearborn', 'MI')",42.3222599,-83.17631449999999,Wayne
+66,FREESCALE SEMI CONDUCTOR,EE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+67,FRITO LAY,CE,Bakersfield,CA,A,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+68,FRITO LAY,CHE,Frankfort,IN,A,"('Frankfort', 'IN')",40.2794809,-86.5108355,Clinton
+69,GAMMA TECHNOLOGIES,ME,Westmont,IL,A,"('Westmont', 'IL')",41.7958639,-87.9756175,Dupage
+70,GARMIN,EE,Olathe,KS,A,"('Olathe', 'KS')",38.8813958,-94.81912849999999,Johnson
+71,GE,ME,Louisville,KY,A,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+72,GE,EE,Charlotte,NC,A,"('Charlotte', 'NC')",35.2270869,-80.8431267,Mecklenburg
+73,GENERAL MOTORS,OE,Warren,MI,A,"('Warren', 'MI')",42.49299999999999,-83.02819699999999,Macomb
+74,GOOGLE,CS,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+75,GREAT DANE TRAILERS,ME,Brazil,IN,A,"('Brazil', 'IN')",39.523652,-87.1250154,Clay
+76,GREAT DANE TRAILERS,ME,Brazil,IN,A,"('Brazil', 'IN')",39.523652,-87.1250154,Clay
+77,GROUPON,CS,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+78,HAZEN & SAWYER,EE,Raleigh,NC,A,"('Raleigh', 'NC')",35.7795897,-78.6381787,Wake
+79,HONDA MANUFACTURING OF INDIANA,ME,Greensburg,IN,A,"('Greensburg', 'IN')",39.3372722,-85.483581,Decatur
+80,HYDROGEAR,ME,Sullivan,IL,A,"('Sullivan', 'IL')",39.599479,-88.6078392,Moultrie
+81,INDESIGN,CPE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+82,ARCHER DANIELS MIDLAND,ME,Decatur,IL,O,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+83,"AG&E ASSOCIATES, P.L.L.C.",CE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+84,ALLEGIENT TECHNOLOGIES,CPE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+85,ALLISON TRANSMISSION,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+86,ALLISON TRANSMISSION,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+87,ALLSTATE INSURANCE,CS,Chicago,IL,O,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+88,ANCHOR QEA,CE,Seattle,WA,O,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+89,ARCELOR MITTAL,CE,Burns Harbor,IN,O,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+90,AVALON CONSULTING,CS,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+91,BALEMASTER,ME,Crown Point,IN,O,"('Crown Point', 'IN')",41.4169806,-87.3653135,Lake
+92,BASTIAN SOLUTIONS,ME,St. Louis,MO,O,"('St. Louis', 'MO')",38.6270025,-90.19940419999999,St Louis
+93,BUTLER AMERICA,ME,West Lafayette,IN,O,"('West Lafayette', 'IN')",40.4258686,-86.90806549999999,Tippecanoe
+94,CARDNER DENVER WATER JETTING SYSTEMS,ME,Houston,TX,O,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+95,CATERPILLAR,PHY,Peoria,IL,O,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+96,CHRYSLER,ME,Trenton,MI,O,"('Trenton', 'MI')",42.1394858,-83.1782587,Wayne
+97,CIVIL AND ENVIROMENTAL CONSULTANTS,CE,Columbus,OH,O,"('Columbus', 'OH')",39.9611755,-82.99879419999999,Franklin
+98,COOK MEDICAL,BE CS,Bloomington,IN,O,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+99,CORNERSTONE CONTROLS,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+100,CORNERSTONE CONTROLS,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+101,DAJAC,CPE,Carmel,IN,O,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+102,DART SOLO CORPORATION,CHE,Mason,MI,O,"('Mason', 'MI')",42.5792027,-84.4435845,Ingham
+103,DONCASTERS,ME,Paris,IL,O,"('Paris', 'IL')",39.611146,-87.6961374,Edgar
+104,ELANCO,CHE BE,Clinton,IN,O,"('Clinton', 'IN')",39.6569817,-87.3980741,Vermillion
+105,EPIC SYSTEMS,BE,Madison,WI,O,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+106,FRITO LAY,ME,Frankfort,IN,O,"('Frankfort', 'IN')",40.2794809,-86.5108355,Clinton
+107,FRITO LAY,CE,Bakersfield,CA,O,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+108,GE,ME EE,Louisville,KY,O,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+109,GENTEX,CHE,Zeeland,MI,O,"('Zeeland', 'MI')",42.8125246,-86.01865099999999,Ottawa
+110,GPD,CE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+111,HAZEN & SAWYER,EE,Raleigh,NC,O,"('Raleigh', 'NC')",35.7795897,-78.6381787,Wake
+112,HOSPIRA,CHE,Rocky Mt.,NC,O,"('Rocky Mt.', 'NC')",35.9382103,-77.7905339,Edgecombe
+113,ACE TECHNOLOGY,CHE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+114,ACE TECHNOLOGY,EE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+115,ARCHER DANIELS MIDLAND,CHE,Camanche,IA,R,"('Camanche', 'IA')",41.7853085,-90.2529064,Clinton
+116,ARCHER DANIELS MIDLAND,CHE,Camanche,IA,R,"('Camanche', 'IA')",41.7853085,-90.2529064,Clinton
+117,ALCOA,EE,Evansville,IN,R,"('Evansville', 'IN')",37.9715592,-87.5710898,Vanderburgh
+118,ALLEGIENT TECHNOLOGIES,CS,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+119,ALLEGIENT TECHNOLOGIES,SE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+120,ALLISON TRANSMISSION,EE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+121,ALLSTATE INSURANCE,CS,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+122,ANGIES LIST,SE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+123,APPARATUS,CPE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+124,APPARATUS,BE CS,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+125,APPARATUS,CPE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+126,ARCELOR MITTAL,ME,Burns Harbor,IN,R,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+127,ARCELOR MITTAL,CPE,Burns Harbor,IN,R,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+128,BABCOCK & WILCOX,ME,Charlotte,NC,R,"('Charlotte', 'NC')",35.2270869,-80.8431267,Mecklenburg
+129,BASTIAN SOLUTIONS,ME,Greenfield,IN,R,"('Greenfield', 'IN')",39.785043,-85.7694226,Hancock
+130,BASTIAN SOLUTIONS,ME,St. Louis,MO,R,"('St. Louis', 'MO')",38.6270025,-90.19940419999999,St Louis
+131,BLACKBAUD,CS,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+132,BMW,ME,Spartanburg,SC,R,"('Spartanburg', 'SC')",34.9495672,-81.9320482,Spartanburg
+133,BOOZ ALLEN HAMILTON,EE,Annapolis Junction,MD,R,"('Annapolis Junction', 'MD')",39.130937,-76.7933133,Anne Arundel
+134,BOOZ ALLEN HAMILTON,CPE,Annapolis Junction,MD,R,"('Annapolis Junction', 'MD')",39.130937,-76.7933133,Anne Arundel
+135,CATERPILLAR,EE,Peoria,IL,R,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+136,CH2M HILL,CHE,Bellingham,WA,R,"('Bellingham', 'WA')",48.7595529,-122.4882249,Whatcom
+137,CNI,CHE,Louisville,KY,R,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+138,CORNERSTONE CONTROLS,CHE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+139,CUMMINS,ME,Seymour,IN,R,"('Seymour', 'IN')",38.9592201,-85.8902547,Jackson
+140,DELPHI,SE,Kokomo,IN,R,"('Kokomo', 'IN')",40.486427,-86.13360329999999,Howard
+141,DELPHI,ME,Kokomo,IN,R,"('Kokomo', 'IN')",40.486427,-86.13360329999999,Howard
+142,DELPHI,CPE,Kokomo,IN,R,"('Kokomo', 'IN')",40.486427,-86.13360329999999,Howard
+143,DUPONT,ME,El Paso,TX,R,"('El Paso', 'TX')",31.7699559,-106.4968055,El Paso
+144,DUPONT,CHE,Terre Haute,IN,R,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+145,DUPONT,CHE,Terre Haute,IN,R,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+146,DWYER INSTRUMENTS,CHE,Michigan City,IN,R,"('Michigan City', 'IN')",41.70753939999999,-86.8950297,Laporte
+147,EDGILE,SE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+148,ELI LILLY,SE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+149,ENOVA,CS,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+150,EPIC SYSTEMS,CS,Madison,WI,R,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+151,EPIC SYSTEMS,BE,Madison,WI,R,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+152,EPIC SYSTEMS,BE,Madison,WI,R,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+153,EXPEDIA,CS,Bellevue,WA,R,"('Bellevue', 'WA')",47.610377,-122.2006786,King
+154,FEDERAL MOGUL,ME,Southfield,MI,R,"('Southfield', 'MI')",42.4733688,-83.2218731,Oakland
+155,FEDERAL MOGUL,ME,Southfield,MI,R,"('Southfield', 'MI')",42.4733688,-83.2218731,Oakland
+156,FORD,ME,Dearborn,MI,R,"('Dearborn', 'MI')",42.3222599,-83.17631449999999,Wayne
+157,FORD,ME,Dearborn,MI,R,"('Dearborn', 'MI')",42.3222599,-83.17631449999999,Wayne
+158,FORD,ME,Dearborn,MI,R,"('Dearborn', 'MI')",42.3222599,-83.17631449999999,Wayne
+159,FRITO LAY,BE,Bakersfield,CA,R,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+160,GAMMA TECHNOLOGIES,ME,Chicago,IN,R,"('Chicago', 'IN')",41.8781136,-87.6297982,Cook
+161,GARMIN,CS,Olathe,KS,R,"('Olathe', 'KS')",38.8813958,-94.81912849999999,Johnson
+162,GE,ME,Greenville,SC,R,"('Greenville', 'SC')",34.85261759999999,-82.3940104,Greenville
+163,GE,ME,Greenville,SC,R,"('Greenville', 'SC')",34.85261759999999,-82.3940104,Greenville
+164,GE,BE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+165,HONDA MANUFACTURING OF INDIANA,ME,Greensburg,IN,R,"('Greensburg', 'IN')",39.3372722,-85.483581,Decatur
+166,HOSPIRA,CHE,Rocky Mt.,NC,R,"('Rocky Mt.', 'NC')",35.9382103,-77.7905339,Edgecombe
+167,HYUNDAI,ME,Chino,CA,R,"('Chino', 'CA')",34.0122346,-117.688944,San Bernardino
+168,INDESIGN,CPE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+169,INDIGO BIOSYSTEMS,BE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+170,INDIGO BIOSYSTEMS,SE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+171,INDUSTRIAL DESIGN GROUP,ME,Charlotte,NC,O,"('Charlotte', 'NC')",35.2270869,-80.8431267,Mecklenburg
+172,INGREDION,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+173,INGREDION,CHE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+174,INGREDION,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+175,INTEL,EE,Portland,OR,O,"('Portland', 'OR')",45.5234515,-122.6762071,Multnomah
+176,INTERACTIONS CORP.,SE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+177,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+178,INTERNATIONAL PAPER,ME,Texarkana,TX,O,"('Texarkana', 'TX')",33.425125,-94.04768820000001,Bowie
+179,INTERNATIONAL PAPER,CHE,Texarkana,TX,O,"('Texarkana', 'TX')",33.425125,-94.04768820000001,Bowie
+180,INTERNATIONAL PAPER,CHE,Courtland,AL,O,"('Courtland', 'AL')",34.6689794,-87.3094649,Lawrence
+181,INTERNATIONAL PAPER,CHE,Shreveport,LA,O,"('Shreveport', 'LA')",32.5251516,-93.7501789,Caddo
+182,IXL LEARNING,CS,San Mateo,CA,O,"('San Mateo', 'CA')",37.5629917,-122.3255254,San Mateo
+183,"JACOB & HEFNER ASSOCIATES, INC.",CE,Chicago,IL,O,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+184,LEXMARK,CPE,Lexington,KY,O,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+185,MANHARD,CE,Vernon Hills,IL,O,"('Vernon Hills', 'IL')",42.23933230000001,-87.9653565,Lake
+186,MARATHON OIL,CHE,Robinson,IL,O,"('Robinson', 'IL')",39.0053201,-87.7391935,Crawford
+187,MARATHON OIL,CHE,Canton,OH,O,"('Canton', 'OH')",40.79894729999999,-81.378447,Stark
+188,MARATHON OIL,CHE,Robinson,IL,O,"('Robinson', 'IL')",39.0053201,-87.7391935,Crawford
+189,MARATHON OIL,EE,Houston,TX,O,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+190,MAXIM INC,EE,Colorado Springs,CO,O,"('Colorado Springs', 'CO')",38.8338816,-104.8213634,El Paso
+191,MESSER CONSTRUCTION,CE,Cincinnati,OH,O,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+192,MICRON,EE,Minneapolis,MN,O,"('Minneapolis', 'MN')",44.983334,-93.26666999999999,Hennepin
+193,MICROSOFT,SE,Redmond,WA,O,"('Redmond', 'WA')",47.6739881,-122.121512,King
+194,MICROSOFT,SE,Mountain View,CA,O,"('Mountain View', 'CA')",37.3860517,-122.0838511,Santa Clara
+195,MIDWEST COMPLIANCE LABORATORIES,CHEM,Terre Haute,IN,O,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+196,MIT LINCOLN LABS,OE,Boston,MA,O,"('Boston', 'MA')",42.3584308,-71.0597732,Suffolk
+197,MS CONSULTANTS INC.,CE,Columbus,OH,O,"('Columbus', 'OH')",39.9611755,-82.99879419999999,Franklin
+198,MS CONSULTANTS INC.,CE,Columbus,OH,O,"('Columbus', 'OH')",39.9611755,-82.99879419999999,Franklin
+199,NALCO COMPANY,CHE,Houston,TX,O,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+200,NASA,CS,Marshall Space Flight Center,AL,O,"('Marshall Space Flight Center', 'AL')",34.6465571,-86.67574549999999,Madison
+201,NATIONAL INSTRUMENTS,CS,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+202,NATIONAL INSTRUMENTS,EE,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+203,NATIONAL INSTRUMENTS,ME,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+204,NATIONAL INSTRUMENTS,BE,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+205,NATIONAL INSTRUMENTS,CPE,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+206,NATIONAL INSTRUMENTS,EE,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+207,NATIONAL INSTRUMENTS,CPE,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+208,NATIONAL INSTRUMENTS,CPE,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+209,NATIONAL INSTRUMENTS,BE,Austin,TX,O,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+210,NSA,CS,Fort Meade,MD,O,"('Fort Meade', 'MD')",39.1137602,-76.7267773,Anne Arundel
+211,NAVSEA,ME,Crane,IN,O,"('Crane', 'IN')",38.8911588,-86.90389379999999,Martin
+212,NAVSEA,ME,Crane,IN,O,"('Crane', 'IN')",38.8911588,-86.90389379999999,Martin
+213,NICEPAK,CE,Mooresville,IN,O,"('Mooresville', 'IN')",39.6128243,-86.37415999999999,Morgan
+214,NORTHROP GRUMMAN,CPE,Cincinnati,OH,O,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+215,NORTHROP GRUMMAN,CS,Baltimore,MD,O,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+216,NSA,PHY,Fort Meade,MD,O,"('Fort Meade', 'MD')",39.1137602,-76.7267773,Anne Arundel
+217,NUCOR STEEL,EE,Crawfordsville,IN,O,"('Crawfordsville', 'IN')",40.0411536,-86.87445160000001,Montgomery
+218,OPTIS,OE,Troy,MI,O,"('Troy', 'MI')",42.6055893,-83.1499304,Oakland
+219,ORS INC,CS,Fishers,IN,O,"('Fishers', 'IN')",39.9567548,-86.01335,Hamilton
+220,ORS INC,CHE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+221,PERFORMANCE VALIDATION,BE,Bloomington,IN,O,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+222,PERRY ENGINEERING,CE,Goodlettsville,TN,O,"('Goodlettsville', 'TN')",36.3231066,-86.7133302,Davidson
+223,PHILLIPS 66,CHE,St. Louis,MO,O,"('St. Louis', 'MO')",38.6270025,-90.19940419999999,St Louis
+224,POLYMER SCIENCE,ME,Monticello,IN,O,"('Monticello', 'IN')",40.7453169,-86.7647343,White
+225,PROCTER & GAMBLE,EE,Greensboro,NC,O,"('Greensboro', 'NC')",36.0726354,-79.7919754,Guilford
+226,PROGRESSIVE INSURANCE,SE,Colorado Springs,CO,O,"('Colorado Springs', 'CO')",38.8338816,-104.8213634,El Paso
+227,PROGRESSIVE INSURANCE,SE,Cleveland,OH,O,"('Cleveland', 'OH')",41.4994954,-81.6954088,Cuyahoga
+228,POWER SYSTEMS MANUFACTURING,ME,Jupiter,FL,O,"('Jupiter', 'FL')",26.9342246,-80.0942087,Palm Beach
+229,PULMODYNE,BE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+230,QUAKER CHEMCIAL,ME,Marion,IN,O,"('Marion', 'IN')",40.5583739,-85.6591442,Grant
+231,QUALCOMM,EE,San Diego,CA,O,"('San Diego', 'CA')",32.7153292,-117.1572551,San Diego
+232,RAYTHEON,ME,Tucson,AZ,O,"('Tucson', 'AZ')",32.2217429,-110.926479,Pima
+233,RAYTHEON,EE,Fort Wayne,IN,O,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+234,RAYTHEON,BE,Columbia,MD,O,"('Columbia', 'MD')",39.2037144,-76.86104619999999,Howard
+235,RAYTHEON,PHY,Baltimore,MD,O,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+236,RAYTHEON,CPE,Columbia,MD,O,"('Columbia', 'MD')",39.2037144,-76.86104619999999,Howard
+237,RINCON RESEARCH CORPORATION,EE,Tucson,AZ,O,"('Tucson', 'AZ')",32.2217429,-110.926479,Pima
+238,ROBERT DERECTOR ASSOCIATES,EE,New York City,NY,O,"('New York City', 'NY')",40.7143528,-74.00597309999999,US
+239,ROCHE DIAGNOSTICS,BE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+240,ROCKWELL COLLINS,EE,Cedar Rapids,IA,O,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+241,ROLLS ROYCE,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+242,ROLLS ROYCE,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+243,ROLLS ROYCE,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+244,ROLLS ROYCE,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+245,ROLLS ROYCE,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+246,RSA,ME,St. Charles,IL,O,"('St. Charles', 'IL')",41.9141945,-88.3086867,Kane
+247,S&S STEEL,EE,Anderson,IN,O,"('Anderson', 'IN')",40.1053196,-85.6802541,Madison
+248,SAMTEC,ME,Owensboro,KY,O,"('Owensboro', 'KY')",37.7719074,-87.1111676,Daviess
+249,SANDIA NATIONAL LABS,EE,Albuquerque,NM,O,"('Albuquerque', 'NM')",35.110703,-106.609991,Bernalillo
+250,SCHLUMBERGER,CHE,Prudhoe Bay,AK,O,"('Prudhoe Bay', 'AK')",70.2556453,-148.3384293,North Slope
+251,SCHLUMBERGER,CHE,Broussard,LA,O,"('Broussard', 'LA')",30.147146,-91.9612305,Lafayette
+252,SCHLUMBERGER,ME,Lafayette,LA,O,"('Lafayette', 'LA')",30.2240897,-92.0198427,Lafayette
+253,SEAGATE TECHNOLOGY,CS,Bloomington,MN,O,"('Bloomington', 'MN')",44.840798,-93.2982799,Hennepin
+254,SEKISUI VOLTEK,ME,Coldwater,MI,O,"('Coldwater', 'MI')",41.9403263,-85.00052149999999,Branch
+255,SENSIBLE SOLUTIONS AND TECH.,CS,Ellicott City,MD,O,"('Ellicott City', 'MD')",39.2673283,-76.7983067,Howard
+256,SENSIBLE SOLUTIONS AND TECH.,CS,Ellicott City,MD,O,"('Ellicott City', 'MD')",39.2673283,-76.7983067,Howard
+257,SOFTWARE ENGINEERING PROFESSIONALS,CS,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+258,SOFTWARE ENGINEERING PROFESSIONALS,SE,Carmel,IN,O,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+259,SOFTWARE ENGINEERING PROFESSIONALS,CS,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+260,SOFTWARE ENGINEERING PROFESSIONALS,CS,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+261,SIEMENS,CE,Orlando,FL,O,"('Orlando', 'FL')",28.5383355,-81.3792365,Orange
+262,SMITH AND BURGESS,CHE,Chicago,IL,O,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+263,SMUCKERS,ME,Bowling Green,KY,O,"('Bowling Green', 'KY')",36.9903199,-86.4436018,Warren
+264,SOFTWARE ENGINEERING PROFESSIONALS,SE CS,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+265,SOUTHWEST RESEARCH INSTITUTE,EE,"San Antonio,",TX,O,"('San Antonio,', 'TX')",29.4241219,-98.49362819999999,Bexar
+266,SOUTHWEST RESEARCH INSTITUTE,ME,"San Antonio,",TX,O,"('San Antonio,', 'TX')",29.4241219,-98.49362819999999,Bexar
+267,ST. JUDE MEDICAL,ME,Plymouth,MN,O,"('Plymouth', 'MN')",45.0105194,-93.4555093,Hennepin
+268,SUPERIOR OIL,CHE,Connersville,IN,O,"('Connersville', 'IN')",39.6411589,-85.1410748,Fayette
+269,TATE AND LYLE,CHE,Lafayette,IN,O,"('Lafayette', 'IN')",40.4167022,-86.87528689999999,Tippecanoe
+270,TATE AND LYLE,CHE,Lafayette,IN,O,"('Lafayette', 'IN')",40.4167022,-86.87528689999999,Tippecanoe
+271,TATE AND LYLE,CHE,Lafayette,IN,O,"('Lafayette', 'IN')",40.4167022,-86.87528689999999,Tippecanoe
+272,TERADYNE,EE,Richardson,TX,O,"('Richardson', 'TX')",32.9481789,-96.7297205,Dallas
+273,TERADYNE,EE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+274,TESLA MOTORS,ME,Palo Alto,CA,O,"('Palo Alto', 'CA')",37.4418834,-122.1430195,Santa Clara
+275,TEXAS INSTRUMENTS,CHE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+276,TEXAS INSTRUMENTS,EE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+277,TEXAS INSTRUMENTS,EE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+278,TEXAS INSTRUMENTS,EE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+279,TEXAS INSTRUMENTS,ME,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+280,TEXAS INSTRUMENTS,EE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+281,TEXAS INSTRUMENTS,EE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+282,TEXAS INSTRUMENTS,EE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+283,TEXAS INSTRUMENTS,EE,Phoenix,AZ,O,"('Phoenix', 'AZ')",33.4483771,-112.0740373,Maricopa
+284,TEXAS INSTRUMENTS,CHE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+285,TEXAS INSTRUMENTS,CPE,Phoenix,AZ,O,"('Phoenix', 'AZ')",33.4483771,-112.0740373,Maricopa
+286,TEXAS INSTRUMENTS,EE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+287,TEXAS INSTRUMENTS,EE,Phoenix,AZ,O,"('Phoenix', 'AZ')",33.4483771,-112.0740373,Maricopa
+288,TEXAS INSTRUMENTS,PHY,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+289,TEXAS INSTRUMENTS,EE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+290,TOYOTA,ME,Princton,IN,O,"('Princton', 'IN')",38.3553236,-87.5675222,Gibson
+291,UNIVERSAL BEARINGS,ME,Bremen,IN,O,"('Bremen', 'IN')",41.44643600000001,-86.14805799999999,Marshall
+292,HONEYWELL,CHE,Des Plaines,IL,O,"('Des Plaines', 'IL')",42.0333623,-87.88339909999999,Cook
+293,HONEYWELL,CHE,Chicago,IL,O,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+294,HONEYWELL,CHE BE,Des Plaines,IL,O,"('Des Plaines', 'IL')",42.0333623,-87.88339909999999,Cook
+295,US PATENT OFFICE,BE,Washington D.C.,,O,"('Washington D.C.', '')",38.90723089999999,-77.0364641,District of Columbia
+296,VALEO SYLVANIA,EE,Seymour,IN,O,"('Seymour', 'IN')",38.9592201,-85.8902547,Jackson
+297,VALEO SYLVANIA,EE,Seymour,IN,O,"('Seymour', 'IN')",38.9592201,-85.8902547,Jackson
+298,VIASAT,CPE,San Diego,CA,O,"('San Diego', 'CA')",32.7153292,-117.1572551,San Diego
+299,WALSH CONSTRUCTION,CE,Louisville,KY,O,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+300,WALSH CONSTRUCTION,CE,Louisville,KY,O,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+301,"WANG ENGINEERING, INC.",CE,Lombard,IL,O,"('Lombard', 'IL')",41.8800296,-88.00784349999999,Dupage
+302,WEIHE ENGINEERING,CE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+303,MD WESSLER & ASSOCIATES,CE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+304,WEST MONROE PARTNERS,CS,Chicago,IL,O,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+305,WHITE CONSTRUCTION,CE,Clinton,IN,O,"('Clinton', 'IN')",39.6569817,-87.3980741,Vermillion
+306,WILLIAMS INTERNATIONAL,ME,Walled Lake,MI,O,"('Walled Lake', 'MI')",42.537811,-83.4810481,Oakland
+307,XBY2,SE,Farmington Hills,MI,O,"('Farmington Hills', 'MI')",42.4989936,-83.3677168,Oakland
+308,XBY2,CS,Farmington Hills,MI,O,"('Farmington Hills', 'MI')",42.4989936,-83.3677168,Oakland
+309,XWIND,ME,Brownsburg,IN,O,"('Brownsburg', 'IN')",39.8433769,-86.39777350000001,Hendricks
+310,ZIMMER,BE,Warsaw,IN,O,"('Warsaw', 'IN')",41.2381,-85.8530469,Kosciusko
+311,ZUKEN,EE,Westford,MA,O,"('Westford', 'MA')",42.5792583,-71.4378411,Middlesex
+312,ZUKEN,EE,Westford,MA,O,"('Westford', 'MA')",42.5792583,-71.4378411,Middlesex
+313,ARCHER DANIELS MIDLAND,CHE,Decatur,IL,A,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+314,ALLISON TRANSMISSION,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+315,AMAZON,CS,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+316,AMAZON,CS,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+317,AMERAN,CE,St. Louis,MO,A,"('St. Louis', 'MO')",38.6270025,-90.19940419999999,St Louis
+318,APACHE CORPORATION,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+319,ARCELOR MITTAL,ME,Burns Harbor,IN,A,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+320,ARGON NATIONAL LABS,ME,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+321,ARPAC,ME,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+322,ASCENDANT ENGINEERING,CPE,Austin,TX,A,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+323,BABCOCK & WILCOX,CHE,Charlotte,NC,A,"('Charlotte', 'NC')",35.2270869,-80.8431267,Mecklenburg
+324,BAE SYSTEMS,EE,Fort Wayne,IN,A,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+325,BECKMAN COULTER,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+326,BLACKBAUD,SE,Charleston,SC,A,"('Charleston', 'SC')",32.7765656,-79.93092159999999,Charleston
+327,BLACKBAUD,CS,Charleston,SC,A,"('Charleston', 'SC')",32.7765656,-79.93092159999999,Charleston
+328,BLACKBOARD,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+329,BOEING DEFENSE,ME,St. Louis,MO,A,"('St. Louis', 'MO')",38.6270025,-90.19940419999999,St Louis
+330,BOSTIK,CHEM,Wauwatosa,WI,A,"('Wauwatosa', 'WI')",43.0494572,-88.0075875,Milwaukee
+331,BOSTON SCIENTIFIC,BE,Spencer,IN,A,"('Spencer', 'IN')",39.2867117,-86.7625058,Owen
+332,BOWEN ENGINEERING,CE,Baltimore,MD,A,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+333,BP,CHE,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+334,BURNS & MCDONNELL,EE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+335,BURNS & MCDONNELL,CHE,Kansas City,MO,A,"('Kansas City', 'MO')",39.0997265,-94.5785667,Jackson
+336,CATERPILLAR,ME,Lafayette,IN,A,"('Lafayette', 'IN')",40.4167022,-86.87528689999999,Tippecanoe
+337,CATERPILLAR,ME,Peoria,IL,A,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+338,CATERPILLAR,ME,Peoria,IL,A,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+339,CIVIL AND ENVIROMENTAL CONSULTANTS,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+340,CENTURION,CS,Alexandria,VA,A,"('Alexandria', 'VA')",38.8048355,-77.0469214,US
+341,CHRYSLER,ME,Auburn Hills,MI,A,"('Auburn Hills', 'MI')",42.6875323,-83.2341028,Oakland
+342,CONTINENTAL CARBONIC,CHE,Pekin,IL,A,"('Pekin', 'IL')",40.5675388,-89.640658,Tazewell
+343,COOK MEDICAL,ME,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+344,COOK MEDICAL,BE,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+345,COOK MEDICAL,CHE,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+346,COOK MEDICAL,BE,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+347,CUMMINS,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+348,CUMMINS,EE,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+349,CUMMINS,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+350,DMC,ME,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+351,DOW CHEMICAL,CHE,Louisville,KY,A,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+352,DOW CHEMICAL,CHE,Deer Park,TX,A,"('Deer Park', 'TX')",29.7052284,-95.1238204,Harris
+353,DWYER INSTRUMENTS,CHE,Michigan City,IN,A,"('Michigan City', 'IN')",41.70753939999999,-86.8950297,Laporte
+354,EDGILE,SE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+355,ELI LILLY,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+356,ELI LILLY,BE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+357,ENDRESS + HAUSER,BE,Greenwood,IN,A,"('Greenwood', 'IN')",39.6136578,-86.10665259999999,Johnson
+358,ENGIS CORP.,ME,"Wheeling,",IL,A,"('Wheeling,', 'IL')",42.1391927,-87.9289591,Cook
+359,ENVIRON,CHE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+360,ENVIROX,BE,Champaign,IL,A,"('Champaign', 'IL')",40.1164204,-88.2433829,Champaign
+361,EPIC SYSTEMS,CS,Madison,WI,A,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+362,EXACTTARGET,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+363,EXELON NUCLEAR,ME,Morris,IL,A,"('Morris', 'IL')",41.357254,-88.4211785,Grundy
+364,FORD,EE,Dearborn,MI,A,"('Dearborn', 'MI')",42.3222599,-83.17631449999999,Wayne
+365,GE,ME,Louisville,KY,A,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+366,GENTEX,ME,Zeeland,MI,A,"('Zeeland', 'MI')",42.8125246,-86.01865099999999,Ottawa
+367,GREAT DANE TRAILERS,ME,Brazil,IN,A,"('Brazil', 'IN')",39.523652,-87.1250154,Clay
+368,GROTE INDUSTRIES,OE,Madison,IN,A,"('Madison', 'IN')",38.7358933,-85.37995769999999,Jefferson
+369,GROUPON,CS,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+370,GROUPON,SE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+371,GSI GROUP,ME,Assumption,IL,A,"('Assumption', 'IL')",39.5203188,-89.0489712,Christian
+372,HALLIBURTON,CHE,Williston,ND,A,"('Williston', 'ND')",48.1469683,-103.6179745,Williams
+373,HALLIBURTON,CHE,Brighton,CO,A,"('Brighton', 'CO')",39.9852617,-104.8205283,Adams
+374,HALLIBURTON,CHE,Farmington,NM,A,"('Farmington', 'NM')",36.72805830000001,-108.2186856,San Juan
+375,HALLIBURTON,CHE,Muncie,PA,A,"('Muncie', 'PA')",41.2056373,-76.78551519999999,Lycoming
+376,HALLIBURTON,CHE,Brighton,CO,A,"('Brighton', 'CO')",39.9852617,-104.8205283,Adams
+377,HALLIBURTON,EE,Cannonsburg,PA,A,"('Cannonsburg', 'PA')",40.2625702,-80.18727969999999,Washington
+378,HALLIBURTON,CE,Carmichaels,PA,A,"('Carmichaels', 'PA')",39.89674249999999,-79.9744992,Greene
+379,HALLIBURTON,CE,Carmichaels,PA,A,"('Carmichaels', 'PA')",39.89674249999999,-79.9744992,Greene
+380,HALLIBURTON,CHE,Brighton,CO,A,"('Brighton', 'CO')",39.9852617,-104.8205283,Adams
+381,HONEYWELL,EE,Coon Rapids,MN,A,"('Coon Rapids', 'MN')",45.1732394,-93.30300629999999,Anoka
+382,HONEYWELL,CHE,Des Plaines,IL,A,"('Des Plaines', 'IL')",42.0333623,-87.88339909999999,Cook
+383,HOSPIRA,BE,Rocky Mt.,NC,A,"('Rocky Mt.', 'NC')",35.9382103,-77.7905339,Edgecombe
+384,HOSPIRA,BE,Rocky Mt.,NC,A,"('Rocky Mt.', 'NC')",35.9382103,-77.7905339,Edgecombe
+385,HYDROGEAR,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+386,INFRASTRUCTURE,CE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+387,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+388,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+389,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+390,INTERNATIONAL PAPER,CHE,Georgetown,SC,A,"('Georgetown', 'SC')",33.376834,-79.2944964,Georgetown
+391,KCURA,CS,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+392,KIMLEY HORN,CE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+393,KNAUF INSULATION,CE,Shelbyville,IN,A,"('Shelbyville', 'IN')",39.5214373,-85.7769238,Shelby
+394,KNAUF INSULATION,CHE,Shelbyville,IN,A,"('Shelbyville', 'IN')",39.5214373,-85.7769238,Shelby
+395,KTC,ME,Kanazawa,JAPAN,A,"('Kanazawa', 'JAPAN')",36.56132540000001,136.6562051,JP
+396,MACAULAY BROWN,CPE,Dayton,OH,A,"('Dayton', 'OH')",39.7589478,-84.1916069,Montgomery
+397,MARATHON OIL,CHE,Catlettsburg,KY,A,"('Catlettsburg', 'KY')",38.4048042,-82.60043689999999,Boyd
+398,MESSER CONSTRUCTION,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+399,METRON,CS,Reston,VA,A,"('Reston', 'VA')",38.9586307,-77.35700279999999,Fairfax
+400,MICROSOFT,CS,Redmond,WA,A,"('Redmond', 'WA')",47.6739881,-122.121512,King
+401,MICROSOFT,CS,Redmond,WA,A,"('Redmond', 'WA')",47.6739881,-122.121512,King
+402,MICROSOFT,CS,Redmond,WA,A,"('Redmond', 'WA')",47.6739881,-122.121512,King
+403,MICROSOFT,CS,Redmond,WA,A,"('Redmond', 'WA')",47.6739881,-122.121512,King
+404,MICROSOFT,SE,Redmond,WA,A,"('Redmond', 'WA')",47.6739881,-122.121512,King
+405,MOFFATT & NICHOL,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+406,MS CONSULTANTS INC.,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+407,NICEPAK,ME,Mooresville,IN,A,"('Mooresville', 'IN')",39.6128243,-86.37415999999999,Morgan
+408,NOVELIS,CHE,Fremont,WV,A,"('Fremont', 'WV')",40.0216713,-80.7003072,Marshall
+409,NRK INC.,EE,Terre Haute,IN,A,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+410,CRANE,ME,Crane,IN,A,"('Crane', 'IN')",38.8911588,-86.90389379999999,Martin
+411,O I,CHE,Perrysburg,OH,A,"('Perrysburg', 'OH')",41.556996,-83.627157,Wood
+412,PARAMETRIC SOLUTIONS,ME,Orlando,FL,A,"('Orlando', 'FL')",28.5383355,-81.3792365,Orange
+413,PARAMETRIC SOLUTIONS,ME,Jupiter,FL,A,"('Jupiter', 'FL')",26.9342246,-80.0942087,Palm Beach
+414,PERFORMANCE VALIDATION,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+415,PHILIPS LIGHTING,OE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+416,PMG,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+417,POINT BEACH NUCLEAR PLANT,ME,Point Beach,WI,A,"('Point Beach', 'WI')",44.1999304,-87.52816469999999,Door
+418,POLLARD BANKNOTE,ME,Ipsilanti,MI,A,"('Ipsilanti', 'MI')",42.2411499,-83.61299389999999,Washtenaw
+419,PRIMERA,CE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+420,QUALITY EXECUTION,CHE,Mount Vernon,IN,A,"('Mount Vernon', 'IN')",37.9322662,-87.8950267,Posey
+421,RAYTHEON,CS,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+422,RESEARCH IN MOTION,SE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+423,ROLL FORMING CORPORATION,ME,Shelbyville,KY,A,"('Shelbyville', 'KY')",38.2120144,-85.2235666,Shelby
+424,ROLLS ROYCE,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+425,SCHLUMBERGER,ME,Westin,WV,A,"('Westin', 'WV')",39.0384274,-80.46731299999999,Lewis
+426,SCHLUMBERGER,ME,Prudhoe Bay,AK,A,"('Prudhoe Bay', 'AK')",70.2556453,-148.3384293,North Slope
+427,SCHLUMBERGER,CHE,New Iberia,LA,A,"('New Iberia', 'LA')",30.0035365,-91.81872849999999,Iberia
+428,SCHLUMBERGER,CHE,Midland,TX,A,"('Midland', 'TX')",31.9973456,-102.0779146,Midland
+429,SCHLUMBERGER,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+430,SOFTWARE ENGINEERING PROFESSIONALS,CS,Carmel,IN,A,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+431,SOFTWARE ENGINEERING PROFESSIONALS,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+432,SOFTWARE ENGINEERING PROFESSIONALS,CS,Carmel,IN,A,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+433,SHELL,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+434,SOGETTI,SE,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+435,SOLAR TURBINES,ME,San Diego,CA,A,"('San Diego', 'CA')",32.7153292,-117.1572551,San Diego
+436,SOUTHWEST RESEARCH INSTITUTE,ME,San Antonio,TX,A,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+437,ST. JUDE MEDICAL,BE,Minneapolis,MN,A,"('Minneapolis', 'MN')",44.983334,-93.26666999999999,Hennepin
+438,SYSTEC CONVEYORS,EE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+439,TATE AND LYLE,CHE,Lafayette,IN,A,"('Lafayette', 'IN')",40.4167022,-86.87528689999999,Tippecanoe
+440,TATE AND LYLE,CHE,West Lafayette,IN,A,"('West Lafayette', 'IN')",40.4258686,-86.90806549999999,Tippecanoe
+441,TEXAS INSTRUMENTS,EE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+442,TEXAS INSTRUMENTS,EE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+443,TEXAS INSTRUMENTS,EE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+444,TEXAS INSTRUMENTS,CPE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+445,THERMA TRON X,CHE,Sturgeon Bay,WI,A,"('Sturgeon Bay', 'WI')",44.8341639,-87.3770419,Door
+446,TOYOTA,ME,San Antonio,TX,A,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+447,TOYOTA,ME,Erlanger,KY,A,"('Erlanger', 'KY')",39.0167275,-84.60077729999999,Kenton
+448,TRW AUTOMOTIVE,ME,Marshall,IL,A,"('Marshall', 'IL')",39.3914252,-87.6936384,Clark
+449,HONEYWELL,CHE,Des Plaines,IL,A,"('Des Plaines', 'IL')",42.0333623,-87.88339909999999,Cook
+450,HONEYWELL,CHE,Des Plaines,IL,A,"('Des Plaines', 'IL')",42.0333623,-87.88339909999999,Cook
+451,HONEYWELL,CHE,Des Plaines,IL,A,"('Des Plaines', 'IL')",42.0333623,-87.88339909999999,Cook
+452,VALEO SYLVANIA,OE,Seymour,IN,A,"('Seymour', 'IN')",38.9592201,-85.8902547,Jackson
+453,VECTREN ENERGY,CE,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+454,WALSH CONSTRUCTION,CE,Pittsburgh,PA,A,"('Pittsburgh', 'PA')",40.44062479999999,-79.9958864,Allegheny
+455,ARCADIS,CE,Chattanooga,TN,A,"('Chattanooga', 'TN')",35.0456297,-85.3096801,Hamilton
+456,ACCURIDE,ME,Evansville,IN,O,"('Evansville', 'IN')",37.9715592,-87.5710898,Vanderburgh
+457,ALCOA,ME,Evansville,IN,O,"('Evansville', 'IN')",37.9715592,-87.5710898,Vanderburgh
+458,AMAZON,CPE,Seattle,WA,O,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+459,AMAZON,CS,Seattle,WA,O,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+460,AMAZON,CS,Seattle,WA,O,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+461,AMAZON,CS,Seattle,WA,O,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+462,ANGIES LIST,EE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+463,APACHE CORPORATION,ME,Houston,TX,O,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+464,ARCELOR MITTAL,ME,Burns Harbor,IN,O,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+465,ARCELOR MITTAL,CPE,Burns Harbor,IN,O,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+466,BABCOCK & WILCOX,ME,Charlotte,NC,O,"('Charlotte', 'NC')",35.2270869,-80.8431267,Mecklenburg
+467,BAE SYSTEMS,EE,Fort Wayne,IN,O,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+468,BASTIAN SOLUTIONS,CPE,St. Louis,MO,O,"('St. Louis', 'MO')",38.6270025,-90.19940419999999,St Louis
+469,BASTIAN SOLUTIONS,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+470,BLACKBAUD,CS,Charleston,SC,O,"('Charleston', 'SC')",32.7765656,-79.93092159999999,Charleston
+471,BLUE ARC ENGINEERING,ME,Greenfield,IN,O,"('Greenfield', 'IN')",39.785043,-85.7694226,Hancock
+472,CATERPILLAR,EE,Peoria,IL,O,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+473,CATERPILLAR,ME,Tucson,AZ,O,"('Tucson', 'AZ')",32.2217429,-110.926479,Pima
+474,CUMMINS,EE,Columbus,IN,O,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+475,CYBERMETRIX,CS,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+476,CYRUS SHANK,ME,Cicero,IL,O,"('Cicero', 'IL')",41.8455877,-87.7539448,Cook
+477,DELL INNOVATIVE SYSTEMS,ME,Peoria,IL,O,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+478,DEPTARTMENT OF DEFENSE,CS,Fort Meade,MD,O,"('Fort Meade', 'MD')",39.1137602,-76.7267773,Anne Arundel
+479,DESIGN & ANALYSIS,ME,Hope,IN,O,"('Hope', 'IN')",39.3039397,-85.77137220000002,Bartholomew
+480,DESIGN & ANALYSIS,ME,Hope,IN,O,"('Hope', 'IN')",39.3039397,-85.77137220000002,Bartholomew
+481,DOUGLAS MACHINE,ME,Evansville,MN,O,"('Evansville', 'MN')",46.0041275,-95.682824,Douglas
+482,ESM,ME,Amherst,NY,O,"('Amherst', 'NY')",42.9756133,-78.7914222,Erie
+483,EXPLORYS,CS,Cleveland,OH,O,"('Cleveland', 'OH')",41.4994954,-81.6954088,Cuyahoga
+484,FORD,ME,Sharonville,OH,O,"('Sharonville', 'OH')",39.2681136,-84.4132746,Hamilton
+485,FPBH,CE,Mount Vernon,IN,O,"('Mount Vernon', 'IN')",37.9322662,-87.8950267,Posey
+486,GE,ME,Louisville,KY,O,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+487,GE,CS,Atlanta,GA,O,"('Atlanta', 'GA')",33.7489954,-84.3879824,Fulton
+488,"GOODWYN, MILLS & CAEWOOD INC",EE,Montgomery,AL,O,"('Montgomery', 'AL')",32.3668052,-86.2999689,Montgomery
+489,HALLIBURTON,CE,Muncie,PA,O,"('Muncie', 'PA')",41.2056373,-76.78551519999999,Lycoming
+490,HALLIBURTON,CHE,Bakersfield,CA,O,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+491,HOSPIRA,BE,Rocky Mt.,NC,O,"('Rocky Mt.', 'NC')",35.9382103,-77.7905339,Edgecombe
+492,INTERACTIVE INTELLIGENCE,SE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+493,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+494,INTERACTIVE INTELLIGENCE,SE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+495,ITT,ME,Fort Wayne,IN,O,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+496,JW HICKS,ME,Merrillville,IN,O,"('Merrillville', 'IN')",41.4828144,-87.33281389999999,Lake
+497,MACAULAY BROWN,CPE,Dayton,OH,O,"('Dayton', 'OH')",39.7589478,-84.1916069,Montgomery
+498,MICROSOFT,CS,Redmond,WA,O,"('Redmond', 'WA')",47.6739881,-122.121512,King
+499,MICROSOFT,CS,Seattle,WA,O,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+500,MICROSOFT,CS,Redmond,WA,O,"('Redmond', 'WA')",47.6739881,-122.121512,King
+501,MIDWEST COMPLIANCE LABORATORIES,CHEM,Terre Haute,IN,O,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+502,OSHKOSH CORPORATION,ME,Osh Kosh,WI,O,"('Osh Kosh', 'WI')",44.0247062,-88.5426136,Winnebago
+503,QINETIQ NA,CPE,Reston,VA,O,"('Reston', 'VA')",38.9586307,-77.35700279999999,Fairfax
+504,RAYTHEON,SE,Dallas,TX,O,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+505,RAYTHEON,SE,Fort Wayne,IN,O,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+506,SONY DADC,ME,Terre Haute,IN,O,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+507,VOGT POWER,ME,Louisville,KY,O,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+508,ACUITY LIGHTING,ME,Crawfordsville,IN,R,"('Crawfordsville', 'IN')",40.0411536,-86.87445160000001,Montgomery
+509,ARCHER DANIELS MIDLAND,CHE,Peoria,IL,R,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+510,ARCELOR MITTAL,ME,Steelton,PA,R,"('Steelton', 'PA')",40.2353679,-76.84136130000002,Dauphin
+511,ARCHER DANIELS MIDLAND,CHE,Peoria,IL,R,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+512,ARCHER DANIELS MIDLAND,CHE,Peoria,IL,R,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+513,ARCHER DANIELS MIDLAND,EE,Decatur,IL,R,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+514,BABCOCK & WILCOX,ME,Charlotte,NC,R,"('Charlotte', 'NC')",35.2270869,-80.8431267,Mecklenburg
+515,BASTIAN SOLUTIONS,ME,St. Louis,MO,R,"('St. Louis', 'MO')",38.6270025,-90.19940419999999,St Louis
+516,BECKMAN COULTER,ME,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+517,BECKMAN COULTER,SE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+518,BEMIS,CHE,Neenau,WI,R,"('Neenau', 'WI')",44.1858193,-88.462609,Winnebago
+519,BOSTIK,CHE,Temecula,CA,R,"('Temecula', 'CA')",33.4936391,-117.1483648,Riverside
+520,CARGILL,CHE,Conover,IA,R,"('Conover', 'IA')",43.2163613,-91.89738249999999,Winneshiek
+521,CUMMINS,EE,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+522,CUMMINS,EE,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+523,CUMMINS,EE,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+524,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+525,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+526,DELAWARE DYNAMICS,ME,Muncie,IN,R,"('Muncie', 'IN')",40.1933767,-85.3863599,Delaware
+527,DOW CHEMICAL,CHE,Freeport,TX,R,"('Freeport', 'TX')",28.9541368,-95.35966169999999,Brazoria
+528,ENOVA,SE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+529,EPIC SYSTEMS,CHE,Madison,WI,R,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+530,EQUIPMENT TECHNOLOGIES,ME,Mooresville,IN,R,"('Mooresville', 'IN')",39.6128243,-86.37415999999999,Morgan
+531,FORD,EE,Dearborn,MI,R,"('Dearborn', 'MI')",42.3222599,-83.17631449999999,Wayne
+532,FRITO LAY,BE,Bakersfield,CA,R,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+533,GE,ME,Terre Haute,IN,R,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+534,GENERAL CABLE,CHE,Highland Heights,KY,R,"('Highland Heights', 'KY')",39.0331169,-84.4518854,Campbell
+535,GREEN LEAF,ME,Fontanet,IN,R,"('Fontanet', 'IN')",39.57536990000001,-87.2434821,Vigo
+536,HALLIBURTON,CHE,Williston,ND,R,"('Williston', 'ND')",48.1469683,-103.6179745,Williams
+537,HALLIBURTON,CHE,Williston,ND,R,"('Williston', 'ND')",48.1469683,-103.6179745,Williams
+538,HALLIBURTON,CE,Williston,ND,R,"('Williston', 'ND')",48.1469683,-103.6179745,Williams
+539,HNI CORP.,ME,Muscatine,IA,R,"('Muscatine', 'IA')",41.424473,-91.0432051,Muscatine
+540,INDIANA DEPARTMENT OF TRANSPORTATION,CE,Laporte,IN,R,"('Laporte', 'IN')",41.611143,-86.7227195,Laporte
+541,INTERACTIVE INTELLIGENCE,ME,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+542,INTERNATIONAL PAPER,CHE,Texarkana,AR,R,"('Texarkana', 'AR')",33.4417915,-94.0376881,Miller
+543,INTERNATIONAL PAPER,ME,Valliant,OK,R,"('Valliant', 'OK')",34.0023293,-95.0938386,McCurtain
+544,INTERNATIONAL PAPER,CHE,Texarkana,AR,R,"('Texarkana', 'AR')",33.4417915,-94.0376881,Miller
+545,IRD BALANCING,ME,Louisville,KY,R,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+546,JANSSEN AND SPAANS ENGINEERING,CE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+547,LEXMARK,CS,Lexington,KY,R,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+548,LOUISVILLE GAS& ELECTRIC,ME,Louisville,KY,R,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+549,METRON,CS,Reston,VA,R,"('Reston', 'VA')",38.9586307,-77.35700279999999,Fairfax
+550,MICROSOFT,SE,Redmond,WA,R,"('Redmond', 'WA')",47.6739881,-122.121512,King
+551,MITSUBA AMERICAN,ME,Monroeville,IN,R,"('Monroeville', 'IN')",40.9747705,-84.8682972,Allen
+552,MTI,ME,South Bend,IN,R,"('South Bend', 'IN')",41.6763545,-86.25198979999999,St Joseph
+553,NOVELIS,ME,Greensboro,GA,R,"('Greensboro', 'GA')",33.5756831,-83.18237890000002,Greene
+554,QUALITY EXECUTION,CHE,Mount Vernon,IN,R,"('Mount Vernon', 'IN')",37.9322662,-87.8950267,Posey
+555,SCHLUMBERGER,ME,Westin,WV,R,"('Westin', 'WV')",39.0384274,-80.46731299999999,Lewis
+556,SCHLUMBERGER,CHE,Midland,TX,R,"('Midland', 'TX')",31.9973456,-102.0779146,Midland
+557,SOFTWARE ENGINEERING PROFESSIONALS,CS,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+558,SIEMENS,ME,Orlando,FL,R,"('Orlando', 'FL')",28.5383355,-81.3792365,Orange
+559,TRIMEDX,BE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+560,HONEYWELL,CHE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+561,HONEYWELL,CHE,Des Plaines,IL,R,"('Des Plaines', 'IL')",42.0333623,-87.88339909999999,Cook
+562,VALDES ENGINEERING,CHE,Lombard,IL,R,"('Lombard', 'IL')",41.8800296,-88.00784349999999,Dupage
+563,VALEO SYLVANIA,ME,Seymour,IN,R,"('Seymour', 'IN')",38.9592201,-85.8902547,Jackson
+564,VECTREN ENERGY,CE,Lafayette,IN,R,"('Lafayette', 'IN')",40.4167022,-86.87528689999999,Tippecanoe
+565,"VESTA, INC",ME,Franklin,WI,R,"('Franklin', 'WI')",42.888627,-88.03841949999999,Milwaukee
+566,ELI LILLY,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+567,HALLIBURTON,CE,Homer City,PA,O,"('Homer City', 'PA')",40.5434007,-79.16225659999999,Indiana
+568,SCHLUMBERGER,CE,Bakersfield,CA,O,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+569,WALSH CONSTRUCTION,CE,Cannonsburg,PA,O,"('Cannonsburg', 'PA')",40.2625702,-80.18727969999999,Washington
+570,ALCOA,CHE,Whitehall,MI,A,"('Whitehall', 'MI')",43.4100107,-86.34867919999999,Muskegon
+571,ALCOA,CE,Whitehall,MI,A,"('Whitehall', 'MI')",43.4100107,-86.34867919999999,Muskegon
+572,ALLISON TRANSMISSION,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+573,ALPHA TECH,CHE,Akron,OH,A,"('Akron', 'OH')",41.0814447,-81.51900529999999,Summit
+574,AMAZON,SE,Seattle,WA,A,"('Seattle', 'WA')",47.6062095,-122.3320708,King
+575,ARCELOR MITTAL,CE,Burns Harbor,IN,A,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+576,ARCELOR MITTAL,EE,Burns Harbor,IN,A,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+577,ARCELOR MITTAL,EE,Burns Harbor,IN,A,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+578,ARCELOR MITTAL,ME,Burns Harbor,IN,A,"('Burns Harbor', 'IN')",41.6258708,-87.1333676,Porter
+579,AVALON CONSULTING,SE,Austin,TX,A,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+580,BASTIAN SOLUTIONS,ME,St. Louis,IN,A,"('St. Louis', 'IN')",38.6270025,-90.19940419999999,US
+581,BAXTER PHARM,CHE,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+582,BETTIS LABS,ME,Pittsburgh,PA,A,"('Pittsburgh', 'PA')",40.44062479999999,-79.9958864,Allegheny
+583,BECKMAN COULTER,EE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+584,BLUE ARC ENGINEERING,ME,Greenfield,IN,A,"('Greenfield', 'IN')",39.785043,-85.7694226,Hancock
+585,BOSTON SCIENTIFIC,BE,Spencer,IN,A,"('Spencer', 'IN')",39.2867117,-86.7625058,Owen
+586,BOSTON SCIENTIFIC,ME,Spencer,IN,A,"('Spencer', 'IN')",39.2867117,-86.7625058,Owen
+587,BRIGHTPOINT,ME,Doral,FL,A,"('Doral', 'FL')",25.8195424,-80.3553302,Miami-Dade
+588,BRISTOL MYERS SQUIBB,CHE,Mount Vernon,IN,A,"('Mount Vernon', 'IN')",37.9322662,-87.8950267,Posey
+589,BRUNER CORPORATION,ME,Hillard,OH,A,"('Hillard', 'OH')",40.0333961,-83.1582451,Franklin
+590,BURNS & MCDONNELL,CHE,Downers Grove,IL,A,"('Downers Grove', 'IL')",41.8089191,-88.01117459999999,Dupage
+591,CATERPILLAR,EE,Peoria,IL,A,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+592,CATERPILLAR,ME,Peoria,IL,A,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+593,CATERPILLAR,ME,Lafayette,IN,A,"('Lafayette', 'IN')",40.4167022,-86.87528689999999,Tippecanoe
+594,CHRYSLER,ME,Auburn Hills,MI,A,"('Auburn Hills', 'MI')",42.6875323,-83.2341028,Oakland
+595,CHRYSLER,ME,Auburn Hills,MI,A,"('Auburn Hills', 'MI')",42.6875323,-83.2341028,Oakland
+596,COOK MEDICAL,BE,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+597,CUMMINS,ME,Seymour,IN,A,"('Seymour', 'IN')",38.9592201,-85.8902547,Jackson
+598,CUMMINS,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+599,CUMMINS,EE,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+600,CYAN OPTICS,ME,Petaluma,CA,A,"('Petaluma', 'CA')",38.232417,-122.6366524,Sonoma
+601,CYAN OPTICS,SE,Petaluma,CA,A,"('Petaluma', 'CA')",38.232417,-122.6366524,Sonoma
+602,CYAN OPTICS,SE,Petaluma,CA,A,"('Petaluma', 'CA')",38.232417,-122.6366524,Sonoma
+603,DELIVERA,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+604,DOW CHEMICAL,CHE,Freeport,TX,A,"('Freeport', 'TX')",28.9541368,-95.35966169999999,Brazoria
+605,DOW CHEMICAL,CHE,Midland,MI,A,"('Midland', 'MI')",43.6155825,-84.2472116,Midland
+606,DRESSER,ME,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+607,ELI LILLY,CHE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+608,ELI LILLY,CHE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+609,ELI LILLY,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+610,ENERDEL,CHE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+611,ENOVA,SE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+612,EPIC SYSTEMS,BE,Madison,WI,A,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+613,EPIC SYSTEMS,CHE,Madison,WI,A,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+614,EXACTTARGET,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+615,EXXON MOBIL,ME,Baytown,TX,A,"('Baytown', 'TX')",29.7355047,-94.97742740000001,Harris
+616,FAURECIA EMISSIONS CONTROL TECHNOLOGIES,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+617,GE,ME,Louisville,KY,A,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+618,GE,ME,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+619,GE,ME,Evandale,OH,A,"('Evandale', 'OH')",39.2561691,-84.417997,Hamilton
+620,GE,ME,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+621,GE,ME,West Chester,OH,A,"('West Chester', 'OH')",39.0875777,-81.9226372,Meigs
+622,GE,ME,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+623,GENECA,CS,Oakbrook Terrace,IL,A,"('Oakbrook Terrace', 'IL')",41.8500302,-87.96450770000001,Dupage
+624,GENECA,SE,Oakbrook Terrace,IL,A,"('Oakbrook Terrace', 'IL')",41.8500302,-87.96450770000001,Dupage
+625,GENERAL MOTORS,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+626,GRANGE INSURANCE,MA,Columbus,OH,A,"('Columbus', 'OH')",39.9611755,-82.99879419999999,Franklin
+627,GREEN HILLS SOFTWARE,CS,Santa Barbara,CA,A,"('Santa Barbara', 'CA')",34.4208305,-119.6981901,Santa Barbara
+628,HALLIBURTON,CE,Montgomery,PA,A,"('Montgomery', 'PA')",41.1703592,-76.8769076,Lycoming
+629,HALLIBURTON,CE,Montgomery,PA,A,"('Montgomery', 'PA')",41.1703592,-76.8769076,Lycoming
+630,HALLIBURTON,CHE,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+631,HALLIBURTON,ME,Kilgore,TX,A,"('Kilgore', 'TX')",32.3862619,-94.87577089999999,Gregg
+632,HALLIBURTON,ME,Carmichaels,PA,A,"('Carmichaels', 'PA')",39.89674249999999,-79.9744992,Greene
+633,HALLSTAR,CHE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+634,HONEYWELL,EP,Kansas City,KS,A,"('Kansas City', 'KS')",39.114053,-94.6274636,Wyandotte
+635,IBM,EP,Burlington,VT,A,"('Burlington', 'VT')",44.4758825,-73.21207199999999,Chittenden
+636,INFODYNAMICS,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+637,INTERNATIONAL PAPER,EE,Springfield,OR,A,"('Springfield', 'OR')",44.0462362,-123.0220289,Lane
+638,INTERNATIONAL PAPER,ME,Texarkana,TX,A,"('Texarkana', 'TX')",33.425125,-94.04768820000001,Bowie
+639,JW HICKS,ME,Merrillville,IN,A,"('Merrillville', 'IN')",41.4828144,-87.33281389999999,Lake
+640,LEXMARK,CPE,Lexington,KY,A,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+641,LEXMARK,CS,Lexington,KY,A,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+642,LEXMARK,ME,Lexington,KY,A,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+643,LGS INNOVATIONS,EE,Florham Park,NJ,A,"('Florham Park', 'NJ')",40.787878,-74.3882072,Morris
+644,LOCKHEED MARTIN,ME,Orlando,FL,A,"('Orlando', 'FL')",28.5383355,-81.3792365,Orange
+645,MACAULAY BROWN,ME,Dayton,OH,A,"('Dayton', 'OH')",39.7589478,-84.1916069,Montgomery
+646,MEDIVATIVE TECHNOLOGIES,BE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+647,MEROM POWER PLANT,ME,Merom,IN,A,"('Merom', 'IN')",39.0564308,-87.5675234,Sullivan
+648,MESSER CONSTRUCTION,CE,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+649,MICROCHIP,EE,Phoenix,AZ,A,"('Phoenix', 'AZ')",33.4483771,-112.0740373,Maricopa
+650,MICROSOFT,CPE,Redmond,WA,A,"('Redmond', 'WA')",47.6739881,-122.121512,King
+651,MICROSOFT,CS,Redmond,WA,A,"('Redmond', 'WA')",47.6739881,-122.121512,King
+652,MIT LINCOLN LABS,EE,Boston,MA,A,"('Boston', 'MA')",42.3584308,-71.0597732,Suffolk
+653,MOBI,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+654,MOFFAT & NICHOL,CE,Norfolk,VA,A,"('Norfolk', 'VA')",36.8507689,-76.28587259999999,US
+655,N ASK,SE,Denver,CO,A,"('Denver', 'CO')",39.737567,-104.9847179,Denver
+656,NATIONAL INSTRUMENTS,BE,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+657,NATIONAL INSTRUMENTS,BE,Austin,TX,A,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+658,NAVISTAR,EE,Lyle,IL,A,"('Lyle', 'IL')",41.801141,-88.0747875,Dupage
+659,NAVISTAR,ME,Lyle,IL,A,"('Lyle', 'IL')",41.801141,-88.0747875,Dupage
+660,NAVISTAR,ME,Lyle,IL,A,"('Lyle', 'IL')",41.801141,-88.0747875,Dupage
+661,NAVISTAR,ME,Lyle,IL,A,"('Lyle', 'IL')",41.801141,-88.0747875,Dupage
+662,NORTHROP GRUMMAN,SE,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+663,OBTIVA,SE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+664,OPTIVER US LLC,BE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+665,OSHKOSH CORPORATION,ME,Osh Kosh,WI,A,"('Osh Kosh', 'WI')",44.0247062,-88.5426136,Winnebago
+666,OSHKOSH CORPORATION,ME,Osh Kosh,WI,A,"('Osh Kosh', 'WI')",44.0247062,-88.5426136,Winnebago
+667,P&G,CHEM,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+668,P&G,ME,Beckett Ridge,OH,A,"('Beckett Ridge', 'OH')",39.3470021,-84.43522039999999,Butler
+669,PEABODY ENERGY,ME,Evansville,IN,A,"('Evansville', 'IN')",37.9715592,-87.5710898,Vanderburgh
+670,PERFORMANCE VALIDATION,BE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+671,PEYTON TECHNICAL,EE,Cordyn,IN,A,"('Cordyn', 'IN')",38.2120121,-86.1219155,Harrison
+672,PMG,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+673,POWER SYSTEMS MANUFACTURING,ME,Jupiter,FL,A,"('Jupiter', 'FL')",26.9342246,-80.0942087,Palm Beach
+674,QRM,SE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+675,RAYTHEON,EP,Fort Wayne,IN,A,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+676,RAYTHEON,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+677,REMY INTERNATIONAL,ME,Pendleton,IN,A,"('Pendleton', 'IN')",39.9975414,-85.7466439,Madison
+678,RICARDO,ME,Belleville,MI,A,"('Belleville', 'MI')",42.2047619,-83.4852133,Wayne
+679,ROCKWELL COLLINS,CPE,Cedar Rapids,IA,A,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+680,ROCKWELL COLLINS,CPE,Cedar Rapids,IA,A,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+681,ROCKWELL COLLINS,EE,Cedar Rapids,IA,A,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+682,ROCKWELL COLLINS,SE,Cedar Rapids,MI,A,"('Cedar Rapids', 'MI')",43.05508589999999,-85.6095757,Kent
+683,ROCKWELL COLLINS,EE,Cedar Rapids,IA,A,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+684,ROLLS ROYCE,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+685,ROLLS ROYCE,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+686,SCHLUMBERGER,EE,Denver,CO,A,"('Denver', 'CO')",39.737567,-104.9847179,Denver
+687,SCHLUMBERGER,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+688,SCHLUMBERGER,ME,Shreveport,LA,A,"('Shreveport', 'LA')",32.5251516,-93.7501789,Caddo
+689,SCHLUMBERGER,ME,Denver,CO,A,"('Denver', 'CO')",39.737567,-104.9847179,Denver
+690,SIEMENS,ME,Orlando,FL,A,"('Orlando', 'FL')",28.5383355,-81.3792365,Orange
+691,SPX,CHE,Rochester,NY,A,"('Rochester', 'NY')",43.16103,-77.6109219,Monroe
+692,STATE FARM,MA,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+693,TECHNIFAB,ME,Brazil,IN,A,"('Brazil', 'IN')",39.523652,-87.1250154,Clay
+694,TEXAS INSTRUMENTS,CPE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+695,TEXAS INSTRUMENTS,CPE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+696,TEXAS INSTRUMENTS,EE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+697,TEXAS INSTRUMENTS,EE,Plano,TX,A,"('Plano', 'TX')",33.0198431,-96.6988856,Collin
+698,TEXAS INSTRUMENTS,EE,Plano,TX,A,"('Plano', 'TX')",33.0198431,-96.6988856,Collin
+699,TINDERBOX,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+700,TORNIER,BE,Warsaw,IN,A,"('Warsaw', 'IN')",41.2381,-85.8530469,Kosciusko
+701,TOYOTA,ME,Georgetown,KY,A,"('Georgetown', 'KY')",38.2097967,-84.55883109999999,Scott
+702,VALDES ENGINEERING,CHE,Lombard,IL,A,"('Lombard', 'IL')",41.8800296,-88.00784349999999,Dupage
+703,VALDES ENGINEERING,CHE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+704,VALEO SYLVANIA,OE,Seymour,IN,A,"('Seymour', 'IN')",38.9592201,-85.8902547,Jackson
+705,WYNRIGHT,EE,Elk Grove Vlg,IL,A,"('Elk Grove Vlg', 'IL')",42.0039178,-87.9703461,Cook
+706,ANAKAM IDENTITY SERVICES,CPE,Arlington,VA,O,"('Arlington', 'VA')",38.8799697,-77.1067698,Arlington
+707,CUMMINS,ME,Columbus,IN,O,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+708,FRITO LAY,BE,Bakersfield,CA,O,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+709,ORS INC,CPE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+710,ARCHER DANIELS MIDLAND,CHE,Decatur,IL,R,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+711,ARCHER DANIELS MIDLAND,CHE,Decatur,IL,R,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+712,ARCHER DANIELS MIDLAND,ME,Galesburg,IL,R,"('Galesburg', 'IL')",40.94781580000001,-90.3712395,Knox
+713,ALCOA,ME,Morristown,IN,R,"('Morristown', 'IN')",39.6733785,-85.69858820000002,Shelby
+714,ALCOA,ME,Whitehall,MI,R,"('Whitehall', 'MI')",43.4100107,-86.34867919999999,Muskegon
+715,ARCELOR MITTAL,CHE,Gary,IN,R,"('Gary', 'IN')",41.5933696,-87.3464271,Lake
+716,ARCELOR MITTAL,CS,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+717,ARCELOR MITTAL,SE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+718,BECKMAN COULTER,CPE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+719,BECKMAN COULTER,SE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+720,BSA LIFESTRUCTURES,EE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+721,CATERPILLAR,ME,Peoria,IL,R,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+722,CATERPILLAR,ME,Lafayette,IN,R,"('Lafayette', 'IN')",40.4167022,-86.87528689999999,Tippecanoe
+723,CHRYSLER,EE,Auburn Hills,MI,R,"('Auburn Hills', 'MI')",42.6875323,-83.2341028,Oakland
+724,CUMMINS,EE,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+725,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+726,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+727,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+728,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+729,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+730,DELPHI,ME,Kokomo,IN,R,"('Kokomo', 'IN')",40.486427,-86.13360329999999,Howard
+731,ELI LILLY,CHE,Clinton,IN,R,"('Clinton', 'IN')",39.6569817,-87.3980741,Vermillion
+732,ELI LILLY,CHE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+733,ENOVA,SE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+734,ENOVA,SE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+735,ENOVA,SE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+736,EPIC SYSTEMS,BE,Verona,WI,R,"('Verona', 'WI')",42.990831,-89.53317729999999,Dane
+737,EPIC SYSTEMS,BE,Madison,WI,R,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+738,EPIC SYSTEMS,BE,Madison,WI,R,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+739,EPIC SYSTEMS,CS,Madison,WI,R,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+740,EPIC SYSTEMS,ME,Madison,WI,R,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+741,FRITO LAY,BE,Bakersfield,CA,R,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+742,FRITO LAY,ME,Frankfort,IN,R,"('Frankfort', 'IN')",40.2794809,-86.5108355,Clinton
+743,GENECA,SE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+744,HALLIBURTON,EE,Carmichaels,PA,R,"('Carmichaels', 'PA')",39.89674249999999,-79.9744992,Greene
+745,HAZEN & SAWYER,EE,Cincinnati,OH,R,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+746,HENSEL PHELPS CONSTRUCTION COMPANY,CE,Phoenix,AZ,R,"('Phoenix', 'AZ')",33.4483771,-112.0740373,Maricopa
+747,INDESIGN,CPE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+748,INDESIGN,EE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+749,INGENIA POLYMERS,CHE,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+750,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+751,INTERNATIONAL PAPER,EE,Portland,OR,R,"('Portland', 'OR')",45.5234515,-122.6762071,Multnomah
+752,JUST5CLICKS,CS,North Barrington,IL,R,"('North Barrington', 'IL')",42.207802,-88.1406349,Lake
+753,JW HICKS,ME,Merrillville,IN,R,"('Merrillville', 'IN')",41.4828144,-87.33281389999999,Lake
+754,LHP,CPE,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+755,LOGAN ALUMINUM,CHE,Russellville,KY,R,"('Russellville', 'KY')",36.8453199,-86.887219,Logan
+756,MICROSOFT,CS,Redmond,WA,R,"('Redmond', 'WA')",47.6739881,-122.121512,King
+757,MICROSOFT,SE,Redmond,WA,R,"('Redmond', 'WA')",47.6739881,-122.121512,King
+758,National Air & Space Intelligence Center,EE,Dayton,OH,R,"('Dayton', 'OH')",39.7589478,-84.1916069,Montgomery
+759,NATIONAL INSTRUMENTS,BE,Austin,TX,R,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+760,NATIONAL INSTRUMENTS,CS,Austin,TX,R,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+761,NATIONAL INSTRUMENTS,ME,Austin,TX,R,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+762,NAVISTAR,ME,Warrenville,IL,R,"('Warrenville', 'IL')",41.81780699999999,-88.17340209999999,Dupage
+763,NOVA ENGINEERING,EE,Kennesaw,GA,R,"('Kennesaw', 'GA')",34.0234337,-84.6154897,Cobb
+764,NOVELIS,EE,Fremont,WV,R,"('Fremont', 'WV')",40.0216713,-80.7003072,Marshall
+765,CRANE,EE,Virginia Beach,VA,R,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+766,O I,ME,Toledo,OH,R,"('Toledo', 'OH')",41.6639383,-83.55521200000001,Lucas
+767,ON SEMICONDUCTOR,EE,East Greenwich,NJ,R,"('East Greenwich', 'NJ')",39.7975993,-75.2362381,Gloucester
+768,STRYKER ORTHOPAEDICS,BE,Warsaw,IN,R,"('Warsaw', 'IN')",41.2381,-85.8530469,Kosciusko
+769,PROGRESSIVE INSURANCE,SE,Cleveland,OH,R,"('Cleveland', 'OH')",41.4994954,-81.6954088,Cuyahoga
+770,QRM,SE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+771,ROCKWELL COLLINS,CPE,Cedar Rapids,MI,R,"('Cedar Rapids', 'MI')",43.05508589999999,-85.6095757,Kent
+772,ROCKWELL COLLINS,EE,Cedar Rapids,MI,R,"('Cedar Rapids', 'MI')",43.05508589999999,-85.6095757,Kent
+773,SCIENTIA,CPE,Bedford,IN,R,"('Bedford', 'IN')",38.8611619,-86.4872149,Lawrence
+774,SI,EE,Valley Forge,PA,R,"('Valley Forge', 'PA')",40.0862408,-75.4515302,Chester
+775,SOLAR TURBINES,ME,Sandiego,CA,R,"('Sandiego', 'CA')",32.7153292,-117.1572551,San Diego
+776,SOUTHWEST RESEARCH INSTITUTE,CS,San Antonio,TX,R,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+777,SOUTHWEST RESEARCH INSTITUTE,EE,San Antonio,TX,R,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+778,TRI STAR ENGINEERING,CPE,Bedford,IN,R,"('Bedford', 'IN')",38.8611619,-86.4872149,Lawrence
+779,WYNRIGHT,ME,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+780,XBY2,SE,Farmington Hills,MI,R,"('Farmington Hills', 'MI')",42.4989936,-83.3677168,Oakland
+781,ZEBRA TECHNOLOGIES,CPE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+782,ARCHER DANIELS MIDLAND,CHE,Chattanooga,TN,A,"('Chattanooga', 'TN')",35.0456297,-85.3096801,Hamilton
+783,ALCOA,ME,Whitehall,MI,A,"('Whitehall', 'MI')",43.4100107,-86.34867919999999,Muskegon
+784,ALCOA,ME,Laporte,IN,A,"('Laporte', 'IN')",41.611143,-86.7227195,Laporte
+785,ALCOA,ME,Whitehall,MI,A,"('Whitehall', 'MI')",43.4100107,-86.34867919999999,Muskegon
+786,APRIMO,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+787,ARCHER DANIELS MIDLAND,CHE,Frankfort,IN,A,"('Frankfort', 'IN')",40.2794809,-86.5108355,Clinton
+788,ARCHER DANIELS MIDLAND,CHE,Clinton,IA,A,"('Clinton', 'IA')",41.8444735,-90.1887379,Clinton
+789,ATC ASSOCIATES,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+790,BALEMASTER,ME,Crown Point,IN,A,"('Crown Point', 'IN')",41.4169806,-87.3653135,Lake
+791,BASTIAN SOLUTIONS,ME,St. Louis,MO,A,"('St. Louis', 'MO')",38.6270025,-90.19940419999999,St Louis
+792,BELCAN,ME,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+793,BEMIS,CHE,Osh Kosh,WI,A,"('Osh Kosh', 'WI')",44.0247062,-88.5426136,Winnebago
+794,BOOZ ALLEN HAMILTON,SE,Annapolis Junction,MD,A,"('Annapolis Junction', 'MD')",39.130937,-76.7933133,Anne Arundel
+795,CATERPILLAR,ME,Peoria,IL,A,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+796,CISCO,CPE,Research Triangle Park,NC,A,"('Research Triangle Park', 'NC')",35.8991678,-78.86364019999999,Durham
+797,CISCO,CPE,Raleigh,NC,A,"('Raleigh', 'NC')",35.7795897,-78.6381787,Wake
+798,COLDCRETE,CHE,Colorado Springs,CO,A,"('Colorado Springs', 'CO')",38.8338816,-104.8213634,El Paso
+799,CONOCOPHILLIPS,CHE,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+800,CORNERSTONE CONTROLS,CHE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+801,CORRADINO,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+802,COSKATA,CHE,Warrenville,IL,A,"('Warrenville', 'IL')",41.81780699999999,-88.17340209999999,Dupage
+803,COSKATA,CHE,Warrenville,IL,A,"('Warrenville', 'IL')",41.81780699999999,-88.17340209999999,Dupage
+804,CUMMINS,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+805,CUMMINS,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+806,CUMMINS,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+807,CUMMINS,ME,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+808,DEPT. OF NAVY,CHE,Washington D.C.,,A,"('Washington D.C.', '')",38.90723089999999,-77.0364641,District of Columbia
+809,DIESEL RADIATOR,ME,Melrose,IL,A,"('Melrose', 'IL')",39.2233718,-87.7641957,Clark
+810,DOMTAR,CHE,Hawesville,KY,A,"('Hawesville', 'KY')",37.9000554,-86.754988,Hancock
+811,DOW CHEMICAL,CHE,Midland,MI,A,"('Midland', 'MI')",43.6155825,-84.2472116,Midland
+812,ENERGY NORTHWEST,CPE,Richland,WA,A,"('Richland', 'WA')",46.2856907,-119.2844621,Benton
+813,EPIC SYSTEMS,CPE,Madison,WI,A,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+814,EPIC SYSTEMS,ME,Madison,WI,A,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+815,EPSILEN,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+816,EXXON MOBIL,CE,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+817,FAST DIAGNOSTICS,BE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+818,"FLOSOURCE, INC.",ME,Martinsville,IN,A,"('Martinsville', 'IN')",39.42782529999999,-86.4283279,Morgan
+819,FM GLOBAL,CHE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+820,FRITO LAY,BE,Bakersfield,CA,A,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+821,GE,ME,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+822,GE,ME,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+823,GE,ME,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+824,GENTEX,ME,Zeeland,MI,A,"('Zeeland', 'MI')",42.8125246,-86.01865099999999,Ottawa
+825,GREEN HILLS SOFTWARE,CPE,Santa Barbara,CA,A,"('Santa Barbara', 'CA')",34.4208305,-119.6981901,Santa Barbara
+826,GSI GROUP,CE,Decatur,IL,A,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+827,HALLIBURTON,CE,Carmichaels,PA,A,"('Carmichaels', 'PA')",39.89674249999999,-79.9744992,Greene
+828,HALLIBURTON,CHE,Hobbs,NM,A,"('Hobbs', 'NM')",32.7026116,-103.1360403,Lea
+829,HALLIBURTON,ME,Duncan,OK,A,"('Duncan', 'OK')",34.5023028,-97.9578128,Stephens
+830,HALLIBURTON,ME,Grand Junction,CO,A,"('Grand Junction', 'CO')",39.0638705,-108.5506486,Mesa
+831,HALLIBURTON,ME,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+832,HENSEL PHELPS CONSTRUCTION COMPANY,CE,Phoenix,AZ,A,"('Phoenix', 'AZ')",33.4483771,-112.0740373,Maricopa
+833,IDAHO NATIONAL NUCLEAR LABS,MA,Idaho Falls,ID,A,"('Idaho Falls', 'ID')",43.49165139999999,-112.0339645,Bonneville
+834,INDESIGN,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+835,INGERSOLL RAND,EE,Davidson,NC,A,"('Davidson', 'NC')",35.4993031,-80.8486846,Mecklenburg
+836,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+837,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+838,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+839,INTERACTIVE INTELLIGENCE,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+840,INTERACTIVE INTELLIGENCE,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+841,J.W.HICKS,ME,Merrillville,IN,A,"('Merrillville', 'IN')",41.4828144,-87.33281389999999,Lake
+842,JANSSEN AND SPAANS ENGINEERING,CE,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+843,JOHNSON & JOHNSON,CHE,Skillman,NJ,A,"('Skillman', 'NJ')",40.4201165,-74.7146817,Somerset
+844,"KRAFT FOODS, INC.",CHE,Glenview,IL,A,"('Glenview', 'IL')",42.0697509,-87.7878408,Cook
+845,MAJOR TOOL AND MACHINE,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+846,MEAD JOHNSON NUTRITION,CHE,Zeeland,MI,A,"('Zeeland', 'MI')",42.8125246,-86.01865099999999,Ottawa
+847,MESSER CONSTRUCTION,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+848,MICROCHIP,EE,Phoenix,AZ,A,"('Phoenix', 'AZ')",33.4483771,-112.0740373,Maricopa
+849,MICROSOFT,CS,Redmond,WA,A,"('Redmond', 'WA')",47.6739881,-122.121512,King
+850,MICROSOFT,CS,Redmond,WA,A,"('Redmond', 'WA')",47.6739881,-122.121512,King
+851,MURPHY OIL,CHE,El Dorado,AR,A,"('El Dorado', 'AR')",33.20763,-92.6662674,Union
+852,MURPHY OIL,CHE,El Dorado,AR,A,"('El Dorado', 'AR')",33.20763,-92.6662674,Union
+853,MURPHY OIL,CHE,El Dorado,AR,A,"('El Dorado', 'AR')",33.20763,-92.6662674,Union
+854,National Air & Space Intelligence Center,EE,Fort Meade,MD,A,"('Fort Meade', 'MD')",39.1137602,-76.7267773,Anne Arundel
+855,N ASK,EE,Fairfax,VA,A,"('Fairfax', 'VA')",38.84622359999999,-77.30637329999999,US
+856,NAVSEA,ME,Washington D.C.,,A,"('Washington D.C.', '')",38.90723089999999,-77.0364641,District of Columbia
+857,NAVSEA,MA,Virginia Beach,VA,A,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+858,NAVSEA,EE,Crane,IN,A,"('Crane', 'IN')",38.8911588,-86.90389379999999,Martin
+859,NAVSEA,EE,Virginia Beach,VA,A,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+860,NAVSEA,SE,Virginia Beach,VA,A,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+861,NEWPAGE,CHE,Whiting,WI,A,"('Whiting', 'WI')",44.4935795,-89.55872920000002,Portage
+862,NEXT WAVE SYSTEMS,CS,Salem,IN,A,"('Salem', 'IN')",38.6056131,-86.101089,Washington
+863,NORTHROP GRUMMAN,CPE,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+864,NORTHROP GRUMMAN,ME,Orlando,FL,A,"('Orlando', 'FL')",28.5383355,-81.3792365,Orange
+865,NOVAOPTICS INC.,OE,Ramsey,NJ,A,"('Ramsey', 'NJ')",41.0573188,-74.1409771,Bergen
+866,NOVONICS,CPE,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+867,NSA,EE,Fort Meade,MD,A,"('Fort Meade', 'MD')",39.1137602,-76.7267773,Anne Arundel
+868,O I,CHE,Toledo,OH,A,"('Toledo', 'OH')",41.6639383,-83.55521200000001,Lucas
+869,O I,ME,Toledo,OH,A,"('Toledo', 'OH')",41.6639383,-83.55521200000001,Lucas
+870,OMNI OXIDE,CHE,Brazil,IN,A,"('Brazil', 'IN')",39.523652,-87.1250154,Clay
+871,ORR FELLOWSHIP,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+872,PRECISION CHEMICAL,CHE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+873,PROCTER & GAMBLE,CHE,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+874,PROCTER & GAMBLE,CHE,Cape Giradeaux,MO,A,"('Cape Giradeaux', 'MO')",37.3058839,-89.51814759999999,Cape Girardeau
+875,RAYTHEON,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+876,REALMED CORPORATION,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+877,RIETH RILEY CONSTRUCTION,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+878,RINCON RESEARCH CORPORATION,EE,Tucson,AZ,A,"('Tucson', 'AZ')",32.2217429,-110.926479,Pima
+879,RK&K,CE,Baltimore,MD,A,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+880,ROCKWELL COLLINS,EE,Cedar Rapids,IA,A,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+881,ROCKWELL COLLINS,EE,Cedar Rapids,IA,A,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+882,ROCKWELL COLLINS,ME,Cedar Rapids,IA,A,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+883,ROCKWELL COLLINS,ME,Cedar Rapids,IA,A,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+884,ROLLS ROYCE,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+885,ROLLS ROYCE,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+886,ROLLS ROYCE,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+887,SARGENT AND LUNDY,ME,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+888,SCHLUMBERGER,CHE,Balikpapan,INDONESIA,A,"('Balikpapan', 'INDONESIA')",-1.2697669,116.8361715,Balikpapan
+889,SCHLUMBERGER,CHE,Conway,AR,A,"('Conway', 'AR')",35.0886963,-92.4421011,Faulkner
+890,SOFTWARE ENGINEERING PROFESSIONALS,CS,Carmel,IN,A,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+891,SOFTWARE ENGINEERING PROFESSIONALS,CS,Carmel,IN,A,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+892,SOLAR TURBINES,ME,San Diego,CA,A,"('San Diego', 'CA')",32.7153292,-117.1572551,San Diego
+893,SPACE EXPLORATION TECHNOLOGIES,ME,Mcgregor,TX,A,"('Mcgregor', 'TX')",31.4440557,-97.4091792,McLennan
+894,SPACEX,ME,Mcgregor,TX,A,"('Mcgregor', 'TX')",31.4440557,-97.4091792,McLennan
+895,TEXAS INSTRUMENTS,CPE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+896,TEXAS INSTRUMENTS,EE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+897,TEXAS INSTRUMENTS,ME,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+898,TEXAS INSTRUMENTS,ME,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+899,THERMALTECH,ME,Richland,MI,A,"('Richland', 'MI')",42.3761504,-85.45500539999999,Kalamazoo
+900,THYSSEUN KRUPP,ME,Terre Haute,IN,A,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+901,TIMKEN,ME,Canton,OH,A,"('Canton', 'OH')",40.79894729999999,-81.378447,Stark
+902,TREDEGAR,CHE,Terre Haute,IN,A,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+903,UNITED CONSULTING,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+904,HONEYWELL,CHE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+905,US ARMY CORPS OF ENGINEERING,CE,Jamestown,KY,A,"('Jamestown', 'KY')",36.9847899,-85.06300999999999,Russell
+906,VESON NAUTICAL,SE,Boston,MA,A,"('Boston', 'MA')",42.3584308,-71.0597732,Suffolk
+907,VOLTAIR CONSULTING ENGINEERS,ME,Tampa,FL,A,"('Tampa', 'FL')",27.950575,-82.4571776,Hillsborough
+908,WS ATKINS OIL & GAS DIVISION,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+909,XBY2,CS,Farmington Hills,MI,A,"('Farmington Hills', 'MI')",42.4989936,-83.3677168,Oakland
+910,DWYER INSTRUMENTS,ME,Michigan City,IN,O,"('Michigan City', 'IN')",41.70753939999999,-86.8950297,Laporte
+911,EXACTTARGET,ME,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+912,GARMIN,CS,Kansas City,KS,O,"('Kansas City', 'KS')",39.114053,-94.6274636,Wyandotte
+913,NAVSEA,EE,Virginia Beach,VA,O,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+914,SUNPOWER,ME,Athens,OH,O,"('Athens', 'OH')",39.3292396,-82.1012554,Athens
+915,ALCOA,CHE,Morristown,TN,R,"('Morristown', 'TN')",36.2139814,-83.29489219999999,Hamblen
+916,ALCOA,ME,Murpheesboro,TN,R,"('Murpheesboro', 'TN')",35.8456213,-86.39027,Rutherford
+917,ALCOA,ME,Dover,NJ,R,"('Dover', 'NJ')",40.883988,-74.5621025,Morris
+918,ALCOA,ME,Wichita Falls,TX,R,"('Wichita Falls', 'TX')",33.9137085,-98.4933873,Wichita
+919,ALCOA,CHE,Whitehall,MI,R,"('Whitehall', 'MI')",43.4100107,-86.34867919999999,Muskegon
+920,BAKER HUGHES,CHE,Burleson,TX,R,"('Burleson', 'TX')",32.5420821,-97.3208492,Johnson
+921,BAKER HUGHES,ME,Burleson,TX,R,"('Burleson', 'TX')",32.5420821,-97.3208492,Johnson
+922,BELCAN,ME,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+923,BOSTON SCIENTIFIC,ME,St. Paul,MN,R,"('St. Paul', 'MN')",44.9537029,-93.0899578,Ramsey
+924,CATERPILLAR,ME,Peoria,IL,R,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+925,CONNECTSOFT,CS,Louisville,KY,R,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+926,CONNECTSOFT,SE,Louisville,KY,R,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+927,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+928,DOW CHEMICAL,ME,Freeport,TX,R,"('Freeport', 'TX')",28.9541368,-95.35966169999999,Brazoria
+929,ECHOSTAR,CPE,Denver,CO,R,"('Denver', 'CO')",39.737567,-104.9847179,Denver
+930,EPIC SYSTEMS,ME,Verona,WI,R,"('Verona', 'WI')",42.990831,-89.53317729999999,Dane
+931,GPD,CE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+932,HALLIBURTON,CHE,Rock Springs,WY,R,"('Rock Springs', 'WY')",41.58746439999999,-109.2029043,Sweetwater
+933,"HANNUM, WAGLE, CLINE",CE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+934,HARRISON STEEL CASTING COMPANY,ME,Attica,IN,R,"('Attica', 'IN')",40.2942039,-87.24889879999999,Fountain
+935,HNTB CORPORATION,CE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+936,INDIANA DEPARTMENT OF EDUCATION,CS,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+937,INTEL,CHE,Hudson,MA,R,"('Hudson', 'MA')",42.39173599999999,-71.56613899999999,Middlesex
+938,LGS INNOVATIONS,EE,Florham Park,NJ,R,"('Florham Park', 'NJ')",40.787878,-74.3882072,Morris
+939,MC DEAN,EE,Sterling,VA,R,"('Sterling', 'VA')",39.0066993,-77.4291298,Loudoun
+940,MURPHY OIL,CHE,El Dorado,AR,R,"('El Dorado', 'AR')",33.20763,-92.6662674,Union
+941,NALCO COMPANY,CHE,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+942,NAVSEA,EE,Virginia Beach,VA,R,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+943,NAVSEA,EE,Virginia Beach,VA,R,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+944,NEWPAGE,ME,"Stevens Point,",WI,R,"('Stevens Point,', 'WI')",44.52357920000001,-89.574563,Portage
+945,NEXT WAVE SYSTEMS,CPE,Salem,IN,R,"('Salem', 'IN')",38.6056131,-86.101089,Washington
+946,NSA,EE,Fort Meade,MD,R,"('Fort Meade', 'MD')",39.1137602,-76.7267773,Anne Arundel
+947,OUTBOUND TECHNOLOGIES INC,BE,New Hudson,MI,R,"('New Hudson', 'MI')",42.5108667,-83.61549470000001,Oakland
+948,RINCON RESEARCH CORPORATION,EE,Tucson,AZ,R,"('Tucson', 'AZ')",32.2217429,-110.926479,Pima
+949,ROCKWELL COLLINS,EE,Cedar Rapids,IA,R,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+950,ROCKWELL COLLINS,EE,Cedar Rapids,IA,R,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+951,ROCKWELL COLLINS,ME,Cedar Rapids,IA,R,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+952,RW ARMSTRONG,CE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+953,SIEMENS,ME,Orlando,FL,R,"('Orlando', 'FL')",28.5383355,-81.3792365,Orange
+954,SOFTWARE ENGINEERING PROFESSIONALS,SE,Carmel,IN,R,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+955,SPX,ME,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+956,TEXAS INSTRUMENTS,EE,Dallas,TX,R,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+957,THYSSEUN KRUPP,ME,Danville,IL,R,"('Danville', 'IL')",40.124481,-87.6300207,Vermilion
+958,UNIVERSITY OF LOUISVILLE,AB,Louisville,KY,R,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+959,WHIRLPOOL,ME,Marion,OH,R,"('Marion', 'OH')",40.5886699,-83.1285242,Marion
+960,ARCHER DANIELS MIDLAND,CHE,Cedar Rapids,IA,A,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+961,ARCHER DANIELS MIDLAND,ME,Frankfort,IN,A,"('Frankfort', 'IN')",40.2794809,-86.5108355,Clinton
+962,AIM MACHINERY,ME,Merrillville,IN,A,"('Merrillville', 'IN')",41.4828144,-87.33281389999999,Lake
+963,AIRCOM,BE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+964,ALCOA,ME,Cleveland,OH,A,"('Cleveland', 'OH')",41.4994954,-81.6954088,Cuyahoga
+965,ALCOA,ME,Cleveland,OH,A,"('Cleveland', 'OH')",41.4994954,-81.6954088,Cuyahoga
+966,ALLISON TRANSMISSION,CPE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+967,ALLISON TRANSMISSION,EE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+968,ALLSTATE INSURANCE,MA,Northbrook,IL,A,"('Northbrook', 'IL')",42.1275267,-87.82895479999999,Cook
+969,ALLSTATE INSURANCE,MA ECON,Northbrook,IL,A,"('Northbrook', 'IL')",42.1275267,-87.82895479999999,Cook
+970,AMADEUS CONSULTING,SE,Boulder,CO,A,"('Boulder', 'CO')",40.0149856,-105.2705456,Boulder
+971,AMERICAN STRUCTUREPOINT,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+972,ANGEL LEARNING,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+973,ARCELOR MITTAL,ME,Riverdale,IL,A,"('Riverdale', 'IL')",41.63336779999999,-87.6331021,Cook
+974,ARCHER DANIELS MIDLAND,CHE,Marshall,MN,A,"('Marshall', 'MN')",44.448423,-95.79119159999999,Lyon
+975,ASCENDANT ENGINEERING,CPE,Austin,TX,A,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+976,BECKMAN COULTER,BE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+977,BECKMAN COULTER,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+978,BEMIS,CHE,Osh Kosh,WI,A,"('Osh Kosh', 'WI')",44.0247062,-88.5426136,Winnebago
+979,BETTIS LABS,EE,Pittsburgh,PA,A,"('Pittsburgh', 'PA')",40.44062479999999,-79.9958864,Allegheny
+980,BETTIS LABS,ME,Charleston,SC,A,"('Charleston', 'SC')",32.7765656,-79.93092159999999,Charleston
+981,BLUE ARC ENGINEERING,ME,Greenfield,IN,A,"('Greenfield', 'IN')",39.785043,-85.7694226,Hancock
+982,BMW,EE,Spartanburg,SC,A,"('Spartanburg', 'SC')",34.9495672,-81.9320482,Spartanburg
+983,BOSTON SCIENTIFIC,CPE,St. Paul,MN,A,"('St. Paul', 'MN')",44.9537029,-93.0899578,Ramsey
+984,BOSTON SCIENTIFIC,EE,St. Paul,MN,A,"('St. Paul', 'MN')",44.9537029,-93.0899578,Ramsey
+985,BURNS & MCDONNELL,CHE,Kansas City,MO,A,"('Kansas City', 'MO')",39.0997265,-94.5785667,Jackson
+986,BURNS & MCDONNELL,CHE,Kansas City,MO,A,"('Kansas City', 'MO')",39.0997265,-94.5785667,Jackson
+987,BURNS & MCDONNELL,CHE,Kansas City,MO,A,"('Kansas City', 'MO')",39.0997265,-94.5785667,Jackson
+988,CONOCOPHILLIPS,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+989,COOK MEDICAL,CHE,San Clemente,CA,A,"('San Clemente', 'CA')",33.4269728,-117.6119925,Orange
+990,CRANE,OE,Crane,IN,A,"('Crane', 'IN')",38.8911588,-86.90389379999999,Martin
+991,DATA ANALYSIS SOLUTIONS,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+992,DOW CHEMICAL,CHE,Midland,MI,A,"('Midland', 'MI')",43.6155825,-84.2472116,Midland
+993,DUKE ENERGY,EE,Edwardsport,IN,A,"('Edwardsport', 'IN')",38.811991,-87.2522367,Knox
+994,DYNEGY,EE,O'Fallon,IL,A,"(""O'Fallon"", 'IL')",38.592323,-89.910991,St Clair
+995,DYNEGY,ME,O'Fallon,IL,A,"(""O'Fallon"", 'IL')",38.592323,-89.910991,St Clair
+996,DYNEGY,ME,O'Fallon,IL,A,"(""O'Fallon"", 'IL')",38.592323,-89.910991,St Clair
+997,ENDRESS + HAUSER,CHE,Greenwood,IN,A,"('Greenwood', 'IN')",39.6136578,-86.10665259999999,Johnson
+998,EPIC SYSTEMS,CPE,Madison,WI,A,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+999,EPIC SYSTEMS,CS,Madison,WI,A,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+1000,EPIC SYSTEMS,SE,Madison,WI,A,"('Madison', 'WI')",43.0730517,-89.4012302,Dane
+1001,EXACTTARGET,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1002,EXXON MOBIL,EE,Beaumont,TX,A,"('Beaumont', 'TX')",30.080174,-94.1265562,Jefferson
+1003,EXXON MOBIL,CE,Fairfax,VA,A,"('Fairfax', 'VA')",38.84622359999999,-77.30637329999999,US
+1004,EXXON MOBIL,CHE,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1005,EXXON MOBIL,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1006,"FH PASCEN, SN NIELSEN",CE,Los Angeles,CA,A,"('Los Angeles', 'CA')",34.0522342,-118.2436849,Los Angeles
+1007,FRITO LAY,CPE,Bakersfield,CA,A,"('Bakersfield', 'CA')",35.3732921,-119.0187125,Kern
+1008,GARMIN,CPE,Olathe,KS,A,"('Olathe', 'KS')",38.8813958,-94.81912849999999,Johnson
+1009,GARMONG CONSTRUCTION,CE,Terre Haute,IN,A,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+1010,GE,ME,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+1011,GE,ME,Louisville,KY,A,"('Louisville', 'KY')",38.2526647,-85.7584557,Jefferson
+1012,GENERAL CABLE,EE,Highland Heights,KY,A,"('Highland Heights', 'KY')",39.0331169,-84.4518854,Campbell
+1013,"GRESHAM, SMITH AND PARTNERS",CE,Knoxville,TN,A,"('Knoxville', 'TN')",35.9606384,-83.9207392,Knox
+1014,HAGA ELECTRIC AMERICA,ME,Buffalo Grove,IL,A,"('Buffalo Grove', 'IL')",42.1662831,-87.9631308,Cook
+1015,HALLIBURTON,CHE,Pampa,TX,A,"('Pampa', 'TX')",35.5361559,-100.9598709,Gray
+1016,HILL ROM CO.,BE,Batesville,IN,A,"('Batesville', 'IN')",39.3000511,-85.222184,Ripley
+1017,HNTB CORPORATION,CHE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1018,HONEYWELL,CHE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+1019,HONEYWELL,CHE,Chicago,IL,A,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+1020,IBM,SE,Westford,MA,A,"('Westford', 'MA')",42.5792583,-71.4378411,Middlesex
+1021,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1022,INTERACTIVE INTELLIGENCE,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1023,IRIMSENS,OE,Pittsburgh,PA,A,"('Pittsburgh', 'PA')",40.44062479999999,-79.9958864,Allegheny
+1024,JEDSON ENGINEERING,ME,Milford,OH,A,"('Milford', 'OH')",39.1753377,-84.29438209999999,Clermont
+1025,KIEWET SOUTHERN,CE,Baltimore,MD,A,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+1026,KIMLEY HORN,CE,Vero Beach,FL,A,"('Vero Beach', 'FL')",27.6386434,-80.39727359999999,Indian River
+1027,KIMLEY HORN,CE,Vero Beach,FL,A,"('Vero Beach', 'FL')",27.6386434,-80.39727359999999,Indian River
+1028,LEXMARK,CPE,Lexington,KY,A,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+1029,LEXMARK,ME,Lexington,KY,A,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+1030,LUTRON,EE,Coopersburg,PA,A,"('Coopersburg', 'PA')",40.5114885,-75.390458,Lehigh
+1031,MARATHON OIL,CE,Findlay,OH,A,"('Findlay', 'OH')",41.04422,-83.6499321,Hancock
+1032,MARATHON OIL,CHE,Garyville,LA,A,"('Garyville', 'LA')",30.056035,-90.6192554,St John the Baptist
+1033,MARATHON OIL,CHE,Robinson,IL,A,"('Robinson', 'IL')",39.0053201,-87.7391935,Crawford
+1034,MD WESSLER & ASSOCIATES,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1035,MOFFATT & NICHOL,CE,Norfolk,VA,A,"('Norfolk', 'VA')",36.8507689,-76.28587259999999,US
+1036,MOORE ENGINEERING,EE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1037,NATIONAL INSTRUMENTS,CPE,Austin,TX,A,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+1038,NAVSEA,CPE,Virginia Beach,VA,A,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+1039,NEWPAGE,CHE,Wickliffe,KY,A,"('Wickliffe', 'KY')",36.9647754,-89.0892348,Ballard
+1040,NICHOLSON CONSTRUCTION COMPANY,CE,Pittsburgh,PA,A,"('Pittsburgh', 'PA')",40.44062479999999,-79.9958864,Allegheny
+1041,NIPSCO,CHE,West Terre Haute,IN,A,"('West Terre Haute', 'IN')",39.4650363,-87.45002099999999,Vigo
+1042,NORTHROP GRUMMAN,ME,Woodland Hills,CA,A,"('Woodland Hills', 'CA')",34.165357,-118.6089752,Los Angeles
+1043,NORTHROP GRUMMAN,CPE,Baltimore,MD,A,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+1044,CRANE,EE,Crane,IN,A,"('Crane', 'IN')",38.8911588,-86.90389379999999,Martin
+1045,CRANE,ME,Crane,IN,A,"('Crane', 'IN')",38.8911588,-86.90389379999999,Martin
+1046,CRANE,ME,Crane,IN,A,"('Crane', 'IN')",38.8911588,-86.90389379999999,Martin
+1047,CRANE,OE,Crane,IN,A,"('Crane', 'IN')",38.8911588,-86.90389379999999,Martin
+1048,NSWC DAM NECK,CPE,Virginia Beach,VA,A,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+1049,ORS INC,CPE,Fishers,IN,A,"('Fishers', 'IN')",39.9567548,-86.01335,Hamilton
+1050,PERFORMANCE VALIDATION,BE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1051,POWER SYSTEMS MANUFACTURING,ME,Jupiter,FL,A,"('Jupiter', 'FL')",26.9342246,-80.0942087,Palm Beach
+1052,PROCTER & GAMBLE,CHE,Avenel,NJ,A,"('Avenel', 'NJ')",40.5803818,-74.28514690000002,Middlesex
+1053,PROCTER & GAMBLE,EE,Alexandria,LA,A,"('Alexandria', 'LA')",31.3112936,-92.4451371,Rapides
+1054,PROCTER & GAMBLE,ME,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+1055,POWER SYSTEMS MANUFACTURING,ME,Jupiter,FL,A,"('Jupiter', 'FL')",26.9342246,-80.0942087,Palm Beach
+1056,RAYTHEON,CPE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1057,RAYTHEON,CPE,Fort Wayne,IN,A,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+1058,RAYTHEON,EE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1059,RAYTHEON,ME,Tucson,AZ,A,"('Tucson', 'AZ')",32.2217429,-110.926479,Pima
+1060,RAYTHEON,ME,Woburn,MA,A,"('Woburn', 'MA')",42.4792618,-71.1522765,Middlesex
+1061,RAYTHEON,ME,Tucson,AZ,A,"('Tucson', 'AZ')",32.2217429,-110.926479,Pima
+1062,RAYTHEON,CPE,Fort Wayne,IN,A,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+1063,RAYTHEON,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1064,REALMED CORPORATION,SE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1065,RINCON RESEARCH CORPORATION,EE,Tucson,AZ,A,"('Tucson', 'AZ')",32.2217429,-110.926479,Pima
+1066,ROLLS ROYCE,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1067,RW ARMSTRONG,CE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1068,DEPTARTMENT OF DEFENSE,EE,Baltimore,MD,A,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+1069,SIEMENS,ME,Orlando,FL,A,"('Orlando', 'FL')",28.5383355,-81.3792365,Orange
+1070,SIEMENS,ME,Miami,FL,A,"('Miami', 'FL')",25.7889689,-80.2264393,Miami-Dade
+1071,SIEMENS,ME,Orlando,FL,A,"('Orlando', 'FL')",28.5383355,-81.3792365,Orange
+1072,SIEMENS,ME,Houston,TX,A,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1073,SIMMA SOFTWARE INC.,CPE,Terre Haute,IN,A,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+1074,SOUTHWEST RESEARCH INSTITUTE,ME,San Antonio,TX,A,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+1075,SOUTHWEST RESEARCH INSTITUTE,CPE,San Antonio,TX,A,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+1076,SOUTHWEST RESEARCH INSTITUTE,MA,San Antonio,TX,A,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+1077,SPX,ME,Rochester,NY,A,"('Rochester', 'NY')",43.16103,-77.6109219,Monroe
+1078,ST. JUDE MEDICAL,BE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1079,STANLEY SECURITY,ME,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1080,STRAND ASSOCIATES,CHE,Columbus,IN,A,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+1081,STRYKER ORTHOPAEDICS,BE,Mahwah,NJ,A,"('Mahwah', 'NJ')",41.0886216,-74.1435843,Bergen
+1082,SUNPOWER,EP,Athens,OH,A,"('Athens', 'OH')",39.3292396,-82.1012554,Athens
+1083,TECHNOLOGY SERVICE CORP,EE,Bloomington,IN,A,"('Bloomington', 'IN')",39.165325,-86.52638569999999,Monroe
+1084,TEXAS INSTRUMENTS,EE,Dallas,TX,A,"('Dallas', 'TX')",32.7801399,-96.80045109999999,Dallas
+1085,THOMSON,CPE,Indianapolis,IN,A,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1086,TOYOTA,ME,Erlanger,KY,A,"('Erlanger', 'KY')",39.0167275,-84.60077729999999,Kenton
+1087,TOYOTA,ME,Erlanger,KY,A,"('Erlanger', 'KY')",39.0167275,-84.60077729999999,Kenton
+1088,TOYOTA,ME,Erlanger,KY,A,"('Erlanger', 'KY')",39.0167275,-84.60077729999999,Kenton
+1089,TOYOTA,ME,Erlanger,KY,A,"('Erlanger', 'KY')",39.0167275,-84.60077729999999,Kenton
+1090,,ME,Michigan City,IN,A,"('Michigan City', 'IN')",41.70753939999999,-86.8950297,Laporte
+1091,,ME,Pittsburgh,PA,A,"('Pittsburgh', 'PA')",40.44062479999999,-79.9958864,Allegheny
+1092,,ME,Wright Patterson Afb,OH,A,"('Wright Patterson Afb', 'OH')",39.81858829999999,-84.0484601,Greene
+1093,,CS,Cincinnati,OH,A,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+1094,ARCHER DANIELS MIDLAND,CHE,Memphis,TN,O,"('Memphis', 'TN')",35.1495343,-90.0489801,Shelby
+1095,DIVERSIFIED SYSTEMS,CHE,Indianapolis,IN,O,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1096,TIMKEN,ME,Canton,OH,O,"('Canton', 'OH')",40.79894729999999,-81.378447,Stark
+1097,,ME,Pittsburgh,PA,O,"('Pittsburgh', 'PA')",40.44062479999999,-79.9958864,Allegheny
+1098,,CE,Pittsburgh,PA,O,"('Pittsburgh', 'PA')",40.44062479999999,-79.9958864,Allegheny
+1099,ARCHER DANIELS MIDLAND,CHE,Decatur,IL,R,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+1100,AEROSPACE SYSTEMS CENTER,EE,Dayton,OH,R,"('Dayton', 'OH')",39.7589478,-84.1916069,Montgomery
+1101,APRIMO,SE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1102,ARCHER DANIELS MIDLAND,CHE,Fosteria,OH,R,"('Fosteria', 'OH')",41.156998,-83.41687019999999,Seneca
+1103,BELCAN,ME,Cincinnati,OH,R,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+1104,BLUE HORSESHOE SOLUTIONS,SE,Carmel,IN,R,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+1105,BLUE HORSESHOE SOLUTIONS,SE,Carmel,IN,R,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+1106,BOSTON SCIENTIFIC,BE,Spencer,IN,R,"('Spencer', 'IN')",39.2867117,-86.7625058,Owen
+1107,BURNS & MCDONNELL,ME,Kansas City,MO,R,"('Kansas City', 'MO')",39.0997265,-94.5785667,Jackson
+1108,BURNS & MCDONNELL,ME,Kansas City,MO,R,"('Kansas City', 'MO')",39.0997265,-94.5785667,Jackson
+1109,CASKATA,ME,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+1110,CATERPILLAR,CPE,Mossville,IL,R,"('Mossville', 'IL')",40.8171184,-89.5679474,Peoria
+1111,CONOCOPHILLIPS,ME,Terre Haute,IN,R,"('Terre Haute', 'IN')",39.4667034,-87.41390919999999,Vigo
+1112,CUMMINS,CPE,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+1113,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+1114,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+1115,CUMMINS,ME,Columbus,IN,R,"('Columbus', 'IN')",39.2014404,-85.9213796,Bartholomew
+1116,DANNON,CHE,Minster,OH,R,"('Minster', 'OH')",40.3931033,-84.3760612,Auglaize
+1117,DELPHI,CPE,Kokomo,IN,R,"('Kokomo', 'IN')",40.486427,-86.13360329999999,Howard
+1118,DOW CHEMICAL,CHE,Midland,MI,R,"('Midland', 'MI')",43.6155825,-84.2472116,Midland
+1119,DOW CHEMICAL,CHE,Midland,MI,R,"('Midland', 'MI')",43.6155825,-84.2472116,Midland
+1120,DUKE ENERGY,EE,Edwardsport,IN,R,"('Edwardsport', 'IN')",38.811991,-87.2522367,Knox
+1121,DUKE ENERGY,EE,Edwardsport,IN,R,"('Edwardsport', 'IN')",38.811991,-87.2522367,Knox
+1122,DYNEGY,EE,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1123,EXTERRAN,ME,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1124,EXXON MOBIL,CHE,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1125,EXXON MOBIL,EE,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1126,EXXON MOBIL,ME,Fairfax,VA,R,"('Fairfax', 'VA')",38.84622359999999,-77.30637329999999,US
+1127,GARMIN,EE,Olathe,KS,R,"('Olathe', 'KS')",38.8813958,-94.81912849999999,Johnson
+1128,GENERAL CABLE,CHE,Marshall,TX,R,"('Marshall', 'TX')",32.5448714,-94.36741839999999,Harrison
+1129,GENERAL MOTORS,ME,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1130,HALLIBURTON,ME,Odessa,TX,R,"('Odessa', 'TX')",31.8456816,-102.3676431,Ector
+1131,INGERSOLL RAND,ME,Lexington,KY,R,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+1132,INGERSOLL RAND,ME,Lexington,KY,R,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+1133,INTERACTIVE INTELLIGENCE,CS,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1134,JOHNSON & JOHNSON,CHE,New Brunswick,NJ,R,"('New Brunswick', 'NJ')",40.4862157,-74.4518188,Middlesex
+1135,LEXMARK,ME,Lexington,KY,R,"('Lexington', 'KY')",38.0405837,-84.5037164,Fayette
+1136,LIBERTY MUTUAL,CS,Warsau,WI,R,"('Warsau', 'WI')",44.9591352,-89.6301221,Marathon
+1137,LUTRON,CPE,Coopersburg,PA,R,"('Coopersburg', 'PA')",40.5114885,-75.390458,Lehigh
+1138,MC DEAN,EE,Dulles,VA,R,"('Dulles', 'VA')",38.9516235,-77.44808139999999,Loudoun
+1139,MD WESSLER & ASSOCIATES,CE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1140,MOFFATT & NICHOL,CE,Walnut Creek,CA,R,"('Walnut Creek', 'CA')",37.9100783,-122.0651819,Contra Costa
+1141,NATIONAL INSTRUMENTS,CPE,Austin,TX,R,"('Austin', 'TX')",30.267153,-97.7430608,Travis
+1142,NORTHROP GRUMMAN,EE,Baltimore,MD,R,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+1143,NORTHROP GRUMMAN,CPE,Baltimore,MD,R,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+1144,NORTHROP GRUMMAN,SE,Cincinnati,OH,R,"('Cincinnati', 'OH')",39.1031182,-84.5120196,Hamilton
+1145,NORTHROP GRUMMAN,CPE,Baltimore,MD,R,"('Baltimore', 'MD')",39.2903848,-76.6121893,US
+1146,NSWC DAM NECK,CPE,Virginia Beach,VA,R,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+1147,NSWC DAM NECK,CPE,Virginia Beach,VA,R,"('Virginia Beach', 'VA')",36.8529263,-75.97798499999999,US
+1148,NUCOR STEEL,CE,Waterloo,IN,R,"('Waterloo', 'IN')",41.4319946,-85.0199666,Dekalb
+1149,ON SEMICONDUCTOR,EE,East Greenwich,RI,R,"('East Greenwich', 'RI')",41.6455556,-71.47749999999999,Kent
+1150,POWER SYSTEMS MANUFACTURING,ME,Jupiter,FL,R,"('Jupiter', 'FL')",26.9342246,-80.0942087,Palm Beach
+1151,POWER SYSTEMS MANUFACTURING,ME,Jupiter,FL,R,"('Jupiter', 'FL')",26.9342246,-80.0942087,Palm Beach
+1152,RAYTHEON,EE,Fort Wayne,IN,R,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+1153,RAYTHEON,ME,Fort Wayne,IN,R,"('Fort Wayne', 'IN')",41.079273,-85.1393513,Allen
+1154,RESEARCH IN MOTION,CPE,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+1155,RESEARCH IN MOTION,ME,Chicago,IL,R,"('Chicago', 'IL')",41.8781136,-87.6297982,Cook
+1156,ROCKWELL COLLINS,EE,Cedar Rapids,IA,R,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+1157,ROCKWELL COLLINS,CPE,Cedar Rapids,IA,R,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+1158,ROCKWELL COLLINS,SE,Cedar Rapids,IA,R,"('Cedar Rapids', 'IA')",41.9778795,-91.6656232,Linn
+1159,ROLLS ROYCE,ME,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1160,RW ARMSTRONG,CE,Indianapolis,IN,R,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion
+1161,"SCHREIBER FOODS, INC.",BE,Shippensburg,PA,R,"('Shippensburg', 'PA')",40.0506453,-77.5202647,Cumberland
+1162,SOFTWARE ENGINEERING PROFESSIONALS,SE,Carmel,IN,R,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+1163,SOFTWARE ENGINEERING PROFESSIONALS,CS,Carmel,IN,R,"('Carmel', 'IN')",39.978371,-86.1180435,Hamilton
+1164,SOLAR TURBINES,ME,San Diego,CA,R,"('San Diego', 'CA')",32.7153292,-117.1572551,San Diego
+1165,SOUTHWEST RESEARCH INSTITUTE,EE,San Antonio,TX,R,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+1166,SOUTHWEST RESEARCH INSTITUTE,CPE,San Antonio,TX,R,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+1167,SOUTHWEST RESEARCH INSTITUTE,SE,San Antonio,TX,R,"('San Antonio', 'TX')",29.4241219,-98.49362819999999,Bexar
+1168,TATE AND LYLE,CHE,Decatur,IL,R,"('Decatur', 'IL')",39.8403147,-88.9548001,Macon
+1169,TEXAS INSTRUMENTS,EE,Kansas City,MO,R,"('Kansas City', 'MO')",39.0997265,-94.5785667,Jackson
+1170,TEXAS INSTRUMENTS,EE,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1171,TEXAS INSTRUMENTS,EE,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1172,UNITED SPACE ALLIANCE,ME,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1173,,CHE,Des Plaines,IL,R,"('Des Plaines', 'IL')",42.0333623,-87.88339909999999,Cook
+1174,,ME,Houston,TX,R,"('Houston', 'TX')",29.7601927,-95.36938959999999,Harris
+1175,,SE,Farmington Hills,MI,R,"('Farmington Hills', 'MI')",42.4989936,-83.3677168,Oakland
+1176,CATERPILLAR,CPE,Peoria,IL,RESCINDED,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+1177,CATERPILLAR,ME,Peoria,IL,RESCINDED,"('Peoria', 'IL')",40.6936488,-89.5889864,Peoria
+1178,DIVERSIFIED SYSTEMS,ME,Indianapolis,IN,RESCINDED,"('Indianapolis', 'IN')",39.768403,-86.158068,Marion

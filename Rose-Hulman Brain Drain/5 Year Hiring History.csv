@@ -1,0 +1,1180 @@
+Company,Major,City,State,Accept
+Accelerated Machine & Design,ME,Rockford,IL,A
+ADM,CHE,Decatur,IL,A
+ADM,CHE,Clinton,IA,A
+ADM,EE,Lincoln ,NB,A
+Archer Daniels Midland,EE,Decatur,IL,A
+"AG&E Associates, P.L.L.C.",CE,Addision,TX,A
+AIM Machinery,ME,Merrillville,IN,A
+Alcoa,ME,"Dover, ",NJ,A
+Alcoa,ME,"Dover, ",NJ,A
+Allegient ,SE,Indianapolis,IN,A
+Allstate,CS,Chicago ,IL,A
+Amazon,CS,Seattle ,WA,A
+Amazon,CS,Seattle ,WA,A
+Amazon,CS,Seattle ,WA,A
+Amazon,CS,Seattle ,WA,A
+Amazon,CS,Seattle ,WA ,A
+Amazon,CS,Seattle ,WA,A
+Apache,ME,Houston,TX,A
+Arcelor Mittal,EE,Conshohoken,PA,A
+Arcelor Mittal,CHE,Burns Harbor,IL,A
+Babcock & Wilcox,CE,Denver,CO,A
+Booz Allen Hamilton,SE,Annapolis Junction,MD,A
+Booz Allen Hamilton,CS,Annapolis Junction,MD,A
+Bostik,CHE/CHEM,Milwaukee,WI,A
+Boston Scientific,BE,Spencer,IN,A
+BP,ME,Houston,TX,A
+BP3 Global ,CS,Austin ,TX,A
+Bristol Myers Squibb,CHEM,Mt. Vernon,IN,A
+C&I Engineering,CHE,Louisville,KY,A
+Canrig Drilling Company,EE,Houston ,TX,A
+Caterpillar,ME,Peoria,IL,A
+Caterpillar,ME/EE,Peoria,IL,A
+Chrysler,ME,Auburn Hills,MI,A
+Chrysler,ME,Auburn Hills,MI,A
+Cook Medical,BE,Bloomington,IN,A
+Cornerstone Control Systems,EE,Indianapolis ,IN,A
+Cornerstone Controls,ME,Indianapolis ,IN,A
+Cummins,ME,Seymour,IN,A
+Dajac,CPE,Westfield,IN,A
+Daniels Midland Company ADM,CHE,Decatur,IL,A
+DEKA,ME,Manchester,NH,A
+Delek Refinery,ME,Tyler,TX,A
+Deliek Refining Ltd.,CHE,Tyler,TX,A
+Delphi ,ME/EE,Kokomo ,IN,A
+Delphi Electronics and Safety,SE,Auburn Hills,MI,A
+Dilas Diode Laser Inc.,OE,Tucson ,AZ,A
+DMC,ME,Chicago,IL,A
+Dow Chemical,CHE,Deer Park,TX,A
+Dow Chemical,CHE,Freeport,TX,A
+Dow Chemical,CHE,Freeport,TX,A
+Dwyer Instruments ,BE,Michigan City,IN,A
+Eli Lilly,ME,Indianapolis,IN,A
+Eli Lilly,CHE,Indianapolis,IN,A
+Eli Lilly,SE,Indianapolis,IN,A
+Eli Lilly,ME,Indianapolis,IN,A
+Eli Lilly,ME,Indianapolis,IN,A
+Enova,SE,Chicago,IL,A
+Epic Systems,SE,Madison,WI,A
+Exactech,BE,Gainesville,FL,A
+Exxon Mobil,CHE,Baytown,TX,A
+Exxon Mobil,CHE,Baton Rouge,LA,A
+Exxon Mobil,ME,Houston,TX,A
+Farah & Sons,Civil,Indianapolis,IN,A
+Fexware Innovatio0n,EE,Fishers,IN,A
+Ford,ME,Dearborn,MI,A
+Ford Motor,EE,Dearborn,MI,A
+FreeScale Semi Conductor,EE,Indianapolis ,IN,A
+Frito Lay,CE,Bakersfield,CA ,A
+Frito Lay,CHE,Frankfort,IN,A
+Gamma Technologies,ME,Westmont,IL,A
+Garmin International,EE,Olathe,KS,A
+GE Appliances,ME,Louisville,KY,A
+GE Energy,EE,Charlotte,NC,A
+General Motors,OE,Warren ,MI,A
+Google,CS,Seattle ,WA,A
+Great Dane Trailers,ME,Brazil,IN,A
+Great Dane Trailers,ME,Brazil,IN,A
+Groupon,CS,Chicago,IL,A
+Hazen & Sawyer,EE,Raleigh,NC,A
+Honda Manufacturing of Indiana,ME,Greensburg,IN,A
+HydroGear,ME,Sullivan,IL,A
+Indesign,CPE,Indianapolis ,IN,A
+ADM,ME,Decatur,IL,O
+AGE,CE,Dallas ,TX,O
+Allegiant Technologies,CPE,Indianapolis,IN,O
+Allison Transmission,ME,Indianapolis,IN,O
+Allison Transmission,ME,Indianapolis,IN,O
+Allstate,CS,Chicago ,IL ,O
+Anchor QEA,CE,Seattle ,WA,O
+Arcelor Mittal,CE,Burns Harbor,IN,O
+Avalon Consulting,CS,Austin,TX,O
+Balemaster,ME,Crown Point,IN,O
+Bastian Solutions,ME,St. Louis,MO,O
+Butler America,ME,"West Lafayette, ",IN,O
+Cardner Denver Water Jetting Systems,ME,Houston,TX,O
+Caterpillar,PHY,Peoria,IL,O
+Chrysler,ME,Trenton,MI,O
+Civil and Enviromental Consultants,CE,columbus,OH,O
+Cook Medical,BE/CS,Bloomington,IN,O
+Cornerstone Controls,ME,Indianapolis,IN,O
+Cornerstone Controls,ME,Indianapolis,IN,O
+Dajac,CPE,Carmel ,IN,O
+Dart Solo Corporation,CHE,Mason,MI,O
+Doncasters,ME,Paris,IL,O
+Elanco,CHE/BE,Clinton,IN,O
+Epic Systems,BE,Madison,WI,O
+Frito Lay,ME,Frankfort,IN,O
+Frito Lay,CE,Bakersfield,CA ,O
+GE Energy Power Management,ME/EE,Louisville ,KY,O
+Gentex Corporation,CHE,Zeeland,MI,O
+GPD,CE,Indianapolis,IN,O
+Hazen & Sawyer,EE,Raleigh,NC ,O
+Hospira,CHE,Rocky Mt. ,NC,O
+Ace Technologies,CHE,Indianapolis,IN,R
+Ace Technology,EE,Indianapolis,IN,R
+ADM,CHE,Camanche,IA ,R
+ADM,CHE,Camanche,IA ,R
+Alcoa,EE,Evansville,IN,R
+Allegiant Technologies,CS,Indianapolis,IN,R
+Allegient,SE,Indianapolis,IN,R
+Allison Transmission,EE,Indianapolis,IN,R
+Allstate,CS,Chicago,IL,R
+Angie's List ,SE,Indianapolis,IN,R
+Apparatus,CPE,Indianapolis,IN,R
+Apparatus,BE/CS,Indianapolis,IN,R
+Apparatus,CPE,Indianapolis,IN,R
+Arcelor Mittal,ME,Burns Harbor,IN,R
+Arcelor Mittal,CPE,Burns Harbor,IN,R
+Babcock & Wilcox,ME,Charlotte,NC,R
+Bastian Solutions,ME,Greenfield,IN,R
+Bastian Solutions,ME,St. Louis,MO,R
+Blackbaud,CS,Indianapolis ,IN,R
+BMW,ME,Spartenburg,SC,R
+Booz Allen Hamilton,EE,Annapolis Junction,MD,R
+Booz Allen Hamilton,CPE,Annapolis Junction,MD,R
+Caterpillar,EE,Peoria,IL,R
+CH2M Hill,CHE,Bellingham,WA,R
+CNI,CHE,Louisville,KY,R
+Cornerstone Controls,CHE,Indianapolis,IN,R
+Cummins,ME,Seymour,IN,R
+Delphi ,SE,Kokomo,IN,R
+Delphi ,ME,Kokomo,IN,R
+Delphi ,CPE,Kokoma,IN,R
+DuPont,ME,El Paso,TX,R
+DuPont,CHE,Terre Haute,IN,R
+Dupont,CHE,Terre Haute,IN,R
+Dwyer Instruments ,CHE,Michigan City ,IN,R
+Edgile,SE,Indianapolis,IN,R
+Eli Lilly,SE,Indianapolis,IN,R
+Enova,CS,Chicago,IL,R
+Epic Systems,CS,Madison,WI,R
+Epic Systems,BE,Madison,WI,R
+Epic Systems,BE,Madison,WI,R
+Expedia,CS,Bellevue,WA,R
+Federal Mogul,ME,Southfield,MI,R
+Federal Mogul,ME,Southfield,MI,R
+Ford,ME,Dearborn,MI,R
+Ford,ME,Dearborn,MI,R
+Ford Motor,ME,Dearborn,MI,R
+Frito Lay,BE,Bakersfield,CA ,R
+Gamma Technologies,ME,Chicago,IN,R
+Garmin ,CS ,Olathe,KS,R
+GE Energy,ME,Greenville,SC,R
+GE Energy,ME,Greenville,SC,R
+GE Healthcare,BE,Indianapolis ,IN,R
+Honda Manufacturing of Indiana,ME,Greensburg,IN,R
+Hospira,CHE,Rocky Mt. ,NC,R
+Hyundai,ME,Chino,CA ,R
+Indesign,CPE,Indianapolis,IN,R
+Indigo Biosystems,BE,Indianapolis,IN,R
+Indigo Biosystems,SE,Indianapolis,IN,
+Industrial Design Group,ME,Charlotte,NC,
+Ingredion,ME,Indianapolis,IN,
+Ingredion,CHE,Indianapolis,IN,
+Ingredion,ME,Indianapolis,IN,
+Intel,EE,Portland ,OR,
+Interactions Corp. ,SE ,Indianapolis,IN,
+Interactive intelligence,CS,Indianapolis,IN,
+International Paper,ME,Texarkana,TX,
+International Paper,CHE,Texarkana,TX,
+International Paper,CHE,Courtland,AL,
+International Paper,CHE,Shreveport,LA,
+IXL Learning,CS,San Mateo,CA ,
+"JACOB & HEFNER ASSOCIATES, INC.",CE,chicago,IL,
+Lexmark,CPE,Lexington,KY,
+Manhard,CE,Vernon Hills,IL,
+Marathon Petroleum,CHE,Robinson ,IL,
+Marathon Petroleum,CHE,Canton,OH,
+Marathon Petroleum,CHE,Robinson ,IL,
+Marathon Petroleum,EE,Houston ,TX,
+Maxim Inc,EE,Colorado Srings,CO,
+Messer Construction,CE,Cincinnati,OH,
+Micron,EE,Minneapolis,MN,
+Microsoft ,SE,Redmond,WA,
+Microsoft ,SE,Mountain View,CA ,
+Midwest Compliance Laboratories,CHEM,Terre Haute,IN,
+MIT Lincoln Labs,OE,Boston ,MA,
+MS Consultants Inc. ,CE,Columbus,OH,
+MS Consultants Inc. ,CE,Columbus,OH,
+Nalco,CHE,Houston,TX,
+NASA,CS,Marshall Space Flight Center,AL,
+National Instruments,CS,Austin,TX,
+National Instruments,EE,Austin,TX,
+National Instruments,ME,Austin,TX,
+National Instruments,BE,Austin,TX,
+National Instruments,CPE,Austin,TX,
+National Instruments,EE,Austin,TX,
+National Instruments,CPE,Austin,TX,
+National Instruments,CPE,Austin,TX,
+National Instruments,BE,Austin,TX,
+National Security Agency ,CS,Ft. Meade,MD,
+NAVSEA,ME,Crane,IN,
+NAVSEA,ME,Crane ,IN,
+NicePak,CE,Mooresville,IN,
+Northrop Grumman,CPE,Cincinnati,OH,
+Northrop Grumman,CS,Baltimore ,MD,
+NSA,PHy,Fort Meade,MD,
+Nucor Steel,EE,Crawforsville,IN,
+OPTIS,OE,Troy ,MI,
+ORS,CS,Fishers,IN,
+ORS,CHE,Indianapolis,IN,
+Performance Validation,BE,Bloomington,IN,
+Perry Engineering,CE,Goodlettsville,TN,
+Phillips 66,CHE,St. Louis,MO,
+Polymer Science,ME,Monticello,IN,
+Procter & Gamble,EE,Greensboro,NC,
+Progressive Casualty Insurance,SE,Colorado Springs,CO,
+Progressive Insuranve ,SE,Cleveland ,OH,
+PSM,ME,Jupiter,FL,
+Pulmodyne,BE,Indianapolis,IN,
+Quaker Chemcial,ME,Marion,IN,
+Qualcomm,EE,San Diego,CA ,
+Raytheon,ME,Tucson,AZ,
+Raytheon,EE,Fort Wayne,IN,
+Raytheon,BE,Columbia,MD,
+Raytheon ,PHY,Baltimore ,MD,
+Raytheon-Hengglar,CPE,Columbia,MD,
+Rincon,EE,Tucson ,AZ,
+Robert Derector Associates,EE,New York City,NY,
+Roche Diagnostics,BE,Indianapolis,IN,
+Rockwell Collins,EE,Cedar Rapids,IA,
+Rolls-Royce,ME,Indianapolis,IN,
+Rolls-Royce,ME,Indianapolis,IN,
+Rolls-Royce,ME,Indianapolis,IN,
+Rolls-Royce,ME,Indianapolis,IN,
+Rolls-Royce,ME,Indianapolis,IN,
+RSA,ME,St. Charles,IL,
+S&S Steel,EE,Anderson,IN,
+Samtec,ME,Owensboro ,KY,
+Sandia National Labs,EE,Albuquerque,NM,
+Schlumberger,CHE,Prudhoe Bay,AK,
+Schlumberger,CHE,Broussard,LA,
+Schlumberger,ME,Lafayette,LA,
+Seagate Technology,CS,Bloomington,MN,
+Sekisui Voltek,ME,Coldwater,MI,
+Sensible Solutions and Tech. ,CS,Ellicott City ,MD,
+Sensible Solutions and Tech. ,CS,Ellicott City ,MD,
+SEP ,CS,Indianapolis,IN,
+SEP ,SE,Carmel ,IN,
+SEP ,CS,Indianapolis,IN,
+SEP ,CS,Indianapolis,IN,
+Siemens,CE,Orlando,FL,
+Smith and Burgess,CHE,Chicago,IL,
+Smuckers,ME,Bowling Green,KY,
+Software Engineering Professionals,SE CS,Indianapolis,IN,
+Southwest Research,EE,"San Antonio,",TX,
+Southwest Research,ME,"San Antonio,",TX,
+St. Jude Medical,ME,Plymouth,MN,
+Superior Oil,CHE,Connersville,IN,
+Tate and Lyle,CHE,Lafayette,IN,
+Tate and Lyle,CHE,Layfayette,IN,
+Tate and Lyle,CHE,Layfayette,IN,
+Teradyne,EE,Richardson,TX,
+Teradyne,EE,Dallas ,TX,
+Tesla Motors,ME,Palo Alto ,CA ,
+Texas Instruments,CHE,Dallas,TX,
+Texas Instruments,EE,Dallas,TX,
+Texas Instruments,EE,Dallas,TX,
+Texas Instruments,EE,Dallas,TX,
+Texas Instruments,ME,Dallas,TX,
+Texas Instruments,EE,Dallas,TX,
+Texas Instruments,EE,Dallas,TX,
+Texas Instruments,EE,Dallas ,TX,
+Texas Instruments,EE,Phoenix,AZ,
+Texas Instruments,CHE,Dallas ,TX,
+Texas Instruments,CPE,Phoenix,AZ,
+Texas Instruments,EE,Dallas ,TX,
+Texas Instruments,EE,Phoenix,AZ,
+Texas Instruments,PHY,Dallas ,TX,
+Texas Instruments,EE,Dallas ,TX,
+Toyota,ME,Princton ,IN,
+Universal Bearings,ME,Bremen,IN,
+UOP Honeywell,CHE,Des Plaines,IL,
+UOP Honeywell,CHE,Chicago,IL,
+UOP Honeywell,CHE/BE,Des Plaines,IL,
+US Patent Office,BE,"Washington, D.C.",,
+Valeo Sylvania,EE,Seymour,IN,
+Valeo Sylvania,EE,Semour,IN,
+ViaSat,CPE,San Diego,CA ,
+Walsh Construction,CE,Louisville,KY,
+Walsh Construction,CE,Louisville,KY,
+"Wang Engineering, Inc.",CE,Lombard,IL,
+Weihe Engineering,CE,Indianapolis,IN,
+Wessler,CE,Indianapolis,IN,
+West Monroe Partners,CS,Chicago ,IL ,
+White Construction,CE,Clinton,IN,
+Williams International,ME,Walled Lake,MI,
+Xby2,SE,Farmington Hills,MI,
+Xby2,CS,Farmington Hills,MI,
+Xwind,ME,Brownsburg,IN,
+Zimmer,BE,Warsaw,IN,
+Zuken,EE,Westford ,MA,
+Zuken,EE,Westford,MA,
+ADM,CHE,Decatur,IL,A
+Alison Transmission,ME,Indianapolis,IN,A
+Amazon,CS,Seattle ,WA,A
+Amazon,CS,Seattle ,WA,A
+Ameran,CE,St. Louis,MO,A
+Apache Corporation,ME,Houston,TX,A
+Arcelor Mittal,ME,Burns Harbor,IN,A
+ARGON National Labs,ME,Chicago ,IL,A
+ARPAC,ME,Chicago ,IL,A
+Ascendant Engineering,CPE,Austin,TX,A
+Babcock & Wilcox,CHE,Charlotte,NC,A
+BAE Systems,EE,Fort Wayne ,IN,A
+Beckman Coulter,CS,Indianapolis,IN,A
+Blackbaud,SE,Charleston ,SC,A
+Blackbaud,CS,Charleston ,SC,A
+Blackboard,CS,Indianapolis ,IN,A
+Boeing Defense,ME,St. Louis,MO,A
+Bostik,CHEM,Wauwatosa,WI,A
+Boston Scientific,BE,Spencer,IN,A
+Bowen Engineering,CE,Baltimore ,MD,A
+BP,CHE,Hoston ,TX,A
+Burns & McDonnell,EE,Chicago ,IL,A
+Burns & McDonnell,CHE,Kansas City ,MO,A
+Caterpillar,ME,Lafayette,IN,A
+Caterpillar,ME,Peoria,IL,A
+Caterpillar,ME,Peoria,IL,A
+"CEC, Inc. ",CE,Indianapolis,IN ,A
+Centurion,CS,Alexandria,VA,A
+Chrysler,ME,Auburn Hills,MI,A
+Continental Carbonic,CHE,Pekin ,IL ,A
+Cook Medical,ME,Bloomington,IN,A
+Cook Medical,BE,Bloomington,IN,A
+Cook Medical,CHE,Bloomington,IN,A
+Cook Medical,BE,Bloomington,IN,A
+"Cummins, Inc",ME,Columbus,IN,A
+"Cummins, Inc",EE,Columbus ,IN,A
+"Cummins, Inc",ME,Columbus,IN,A
+DMC,ME,Chicago ,IL,A
+Dow Chemical ,CHE,Louisville,KY,A
+Dow Chemical ,CHE,"Deer Park, ",TX,A
+Dwyer Instruments ,CHE,Michigan City ,IN,A
+"Edgile,",SE,Chicago ,IL,A
+Eli Lilly,ME,Indianapolis,IN,A
+Eli Lilly,BE,Indianapolis,IN,A
+Endress+Hauser,BE,Greenwood,IN,A
+Engis Corp.,ME,"Wheeling, ",IL,A
+Environ ,CHE,Chicago ,IL ,A
+Envirox,BE,Champaign,IL,A
+Epic,CS,Madison,WI,A
+Exact Target,CS,Indianapolis ,IN,A
+Exelon Nuclear,ME,Morris,IL,A
+Ford Motor,EE,Dearborn,MI,A
+GE Appliances,ME,Louisville,KY,A
+Gentex,ME,Zeeland,MI,A
+Great Dane Trailers,ME,Brazil,IN,A
+Grote Industries,OE,Madison,IN,A
+Groupon,CS,Chicago ,IL,A
+Groupon,SE,Chicago ,IL,A
+GSI Group,ME,Assumption,IL,A
+Halliburton ,CHE,Williston,ND,A
+Halliburton ,CHE,Brighton,CO,A
+Halliburton ,CHE,Farmington ,NM,A
+Halliburton ,CHE,Muncy,PA,A
+Halliburton ,CHE,Brighton ,CO ,A
+Halliburton ,EE,Cannonsbrug,PA,A
+Halliburton ,CE,Carmichaels ,PA,A
+Halliburton ,CE,Carmichaels ,PA,A
+Halliburton ,CHE ,Brighton ,CO ,A
+Honeywell ,EE,Coon Rapids,MN,A
+Honeywell/UOP,CHE,Des Plaines,IL,A
+Hospira,BE,Rocky Mt. ,NC,A
+Hospira,BE,Rocky Mt. ,NC,A
+Hydrogear,ME,Indianapolis,IN,A
+Infrastructure,CE,Chicago ,IL ,A
+Interactive Intelligence,CS,Indianapolis,IN,A
+Interactive Intelligence,CS,Indianapolis,IN,A
+Interactive Intelligence,CS,Indianapolis ,IN,A
+International Paper,CHE,Georgetown ,SC,A
+kCura,CS,Chicago ,IL,A
+Kimley-Horn ,CE,Dallas ,TX,A
+Knauf Insulation,CE,Shelbyville ,IN,A
+Knauf Insulation,CHE,Shelbyville ,IN,A
+KTC,ME,Kanazawa,Japan,A
+Macaulay-Brown,CPE,Dayton,OH,A
+Marathon ,CHE,Catlettsburg,KY,A
+Messer Construction ,CE,Indianapolis ,IN,A
+Metron,CS,Reston,VA,A
+Microsoft,CS,Redmond ,WA,A
+Microsoft,CS,Redmond ,WA,A
+Microsoft,CS,Redmond ,WA,A
+Microsoft,CS,Redmond ,WA,A
+Microsoft,SE,Redmond ,WA,A
+Moffatt & Nichol ,CE,Indianapolis,IN,A
+ms consultants,CE,Indianapolis,IN,A
+NicePak,ME,Mooresville,IN,A
+Novelis,CHE,Fremont,WV,A
+NRK Inc.,EE,Terre Haute,IN,A
+NSWC Crane,ME,Crane,IN,A
+O-I,CHE,Perrysburg,OH,A
+Parametric Solutions,ME,Orlando ,FL,A
+Parametric Solutions,ME,Jupiter,FL,A
+Performance Validation,ME,Indianapolis,IN,A
+Philips Lighting,OE,Dallas ,TX,A
+PMG,ME,Columbus,IN,A
+Point Beach Nuclear Plant,ME,Point Beach,WI,A
+Pollard Banknote,ME,Ipsilanti,MI,A
+Primera,CE,Chicago ,IL,A
+QualEx,CHE,Mt. Vernon,IN,A
+Raytheon,CS,Dallas ,TX,A
+Research in Motion,SE,Chicago ,IL,A
+Roll Forming Corporation,ME,Shelbyville ,KY,A
+Rolls Royce,ME,Indianapolis,IN,A
+Schlumberger,ME,Westin,WV,A
+Schlumberger,ME,Prudoebay,AK,A
+Schlumberger,CHE,New Iberia,LA,A
+Schlumberger,CHE,Midland ,TX,A
+Schlumberger,ME,Houston,TX,A
+SEP,CS,Carmel,IN,A
+Sep,CS,Indianapolis ,IN,A
+SEP,CS,Carmel,IN,A
+Shell,ME,Houston,TX,A
+Sogetti,SE,Cincinatti ,OH,A
+Solar Turbines,ME,San Diego ,CA,A
+Southwest Research Institute,ME,San ANtonio,TX,A
+St. Jude Medical CRM,BE,Minneapolis,MN,A
+Systec Conveyors,EE,Indianapolis ,IN,A
+Tate & Lyle,CHE,Lafayette,IN,A
+Tate & Lyle,CHE,West Lafayette,IN,A
+Texas Instruments,EE,Dallas ,TX,A
+Texas Instruments,EE,Dallas ,TX,A
+Texas Instruments,EE,Dallas ,TX,A
+Texas Instruments,CPE,Dallas ,TX,A
+Therma-Tron-X,CHE,Sturgeon Bay,WI,A
+Toyota TEMA,ME,San Antonio,TX,A
+Toyota TEMA,ME,Erlanger,KY,A
+TRW Automotive,ME,Marshall,IL,A
+UOP Honeywell,CHE,Des Plaines,IL,A
+UOP Honeywell,CHE,Des Plaines,IL,A
+UOP Honeywell,CHE,Des Plaines,IL,A
+Valeo Sylvania,OE,Seymour,IN,A
+Vectren Energy ,CE,Bloomington ,IN ,A
+Walsh Construction,CE,Pittsburgh,PA,A
+Arcadis,CE,Chattanooga,TN,A
+Accuride ,ME,Evansville,IN,O
+Alcoa,ME,Evansville,IN,O
+Amazon,CPE,Seattle,WA,O
+Amazon,CS,Seattle,WA,O
+Amazon,CS,Seatlle,WA,O
+Amazon,CS,Seatlle,WA,O
+Angies List,EE,Indianapolis,IN,O
+Apache Corporation,ME,Houston,TX,O
+Arcelor Mittal,ME,Burns Harbor,IN,O
+Arcelor Mittal,CPE,Burns Harbor,IN,O
+Babcock & Wilcox,ME,Charlotte,NC,O
+BAE Systems,EE,Fort Wayne,IN,O
+Bastian Solutions,CPE,St. Louis,MO,O
+Bastian Solutions,ME,Indianapolis,IN,O
+Blackbaud,CS,Charleston ,SC,O
+Blue Arc Engineering,ME,Greenfield,IN,O
+Caterpillar,EE,Peoria,IL,O
+Caterpillar,ME,Tuczon ,AZ,O
+"Cummins, Inc",EE,Columbus ,IN,O
+Cybermetrix,CS,Indianapolis ,IN,O
+Cyrus Shank,ME,Cicero,IL,O
+Dell Innovative Systems,ME,Peoria,IL,O
+Dept. of Defense,CS,Fort Meade,MD,O
+Design & Analysis,ME,Hope,IN,O
+Design & Analysis,ME,Hope,IN,O
+Douglas Machine,ME,Evansville,MN,O
+ESM,ME,Amherst,NY,O
+Explorys,CS,Cleveland,OH,O
+Ford,ME,Sharonville,OH,O
+FPBH,CE,Mount Vernon ,IN,O
+GE Appliances,ME,Louisville,KY,O
+GE Energy,CS,Atlanta,GA,O
+"Goodwyn, Mills & Caewood Inc",EE,Montgomery ,AL,O
+Haliburton,CE,Muncie,PA,O
+Halliburton ,CHE,Bakersfield ,CA,O
+Hospira,BE,Rocky Mt. ,NC,O
+Interactive Intelligence,SE,Indianapolis ,IN,O
+Interactive Intelligence,CS,Indianapolis,IN,O
+Interactive Intelligence,SE,Indianapolis,IN,O
+ITT,ME,Fort Wayne,IN,O
+JW Hicks,ME,Merrillville,IN,O
+Macauley Brown,CPE,Dayton,OH,O
+Microsoft,CS,Redmond ,WA,O
+Microsoft,CS,Seattle ,WA,O
+Microsoft,CS,Redmond ,WA,O
+Midwest Compliance,CHEM ,Terre Haute,IN,O
+Oshkosh Corporation,ME,Oshkosh,WI,O
+QinetiQ-NA,CPE,Reston,VA,O
+Raytheon,SE,Dallas ,TX,O
+Raytheon,SE,Fort Wayne,IN,O
+Sony DADC,ME,Terre Haute,IN,O
+Vogt Power,ME,Louisville,KY,O
+Acuity Lighting,ME,Crawfordsville,IN,R
+ADM,CHE,Peoria ,IL,R
+Arcelor Mittal,ME,Steelton,PA,R
+Archer Daniels Midland,CHE,Peoria,IL,R
+Archer Daniels Midland,CHE,peoria,IL,R
+Archer Daniels Midland,EE,Decatur ,IL,R
+Babcock & Wilcox,ME,Charlotte,NC,R
+Bastian Solutions,ME,St. Louis,MO,R
+Beckman Coulter,ME,Indianapolis,IN,R
+Beckman Coulter,SE,Indianapolis ,IN,R
+Bemis,CHE,Neenau,WI,R
+Bostik,CHE,Temecula,CA,R
+Cargill,CHE,Conover,IA,R
+"Cummins, Inc",EE,Columbus ,IN,R
+"Cummins, Inc",EE,Columbus ,IN,R
+"Cummins, Inc",EE,Columbus,IN,R
+"Cummins, Inc",ME,Columbus,IN,R
+"Cummins, Inc",ME,Columbus,IN,R
+Delaware Dynamics,ME,Muncie,IN,R
+Dow Chemical ,CHE,Freeport,TX,R
+Enova,SE,Chicago ,IL,R
+Epic,CHE,Madison,WI,R
+Equipment Technologies,ME,Mooresville,IN,R
+Ford,EE,Dearborn,MI,R
+Frito Lay,BE,Bakersfield ,CA,R
+GE Aviation,ME,Terre Haute,IN,R
+General Cable ,CHE,Highland Heights,KY,R
+Green Leaf,ME,Fontanet,IN,R
+Halliburton ,CHE,Williston,ND,R
+Halliburton ,CHE,Williston,ND,R
+Halliburton ,CE,Williston,ND,R
+HNI Corp.,ME,Muscatine,IA,R
+INDOT ,CE,Laporte,IN,R
+Interactive Intelligence,ME,Indianapolis,IN,R
+International Paper,CHE,Texarkana ,AR,R
+International Paper,ME,Valliant,OK,R
+International Paper,CHE,Texarkana ,AR,R
+IRD Balancing,ME,Louisville,KY,R
+Janssen and Spaan ,CE,Indianapolis ,IN,R
+Lexmark,CS,Lexington,KY,R
+Louisville Gas& Electric,ME,Louisville,KY,R
+Metron,CS,Reston,VA,R
+Microsoft,SE,Redmond ,WA,R
+Mitsuba American,ME,Monroeville,IN,R
+MTI,ME,South Bend,IN,R
+Novelis,ME,Greensboro,GA,R
+Quality Execution,CHE,Mt. Vernon,IN,R
+Schlumberger,ME,Westin,WV,R
+Schlumberger ,CHE,Midland ,TX,R
+SEP,CS,Indianapolis ,IN,R
+Siemens,ME,Orlando ,FL,R
+TriMedx,BE,Indianapolis,IN,R
+UOP Honeywell,CHE,Chicago,IL,R
+UOP Honeywell,CHE,Des Plaines,IL,R
+Valdes,CHE,Lombard ,IL,R
+Valeo Sylvania,ME,Seymour,IN,R
+Vectren Energy ,CE,Lafayette,IN,R
+"Vesta, Inc",ME,Franklin,WI,R
+Eli Lilly,ME,Indianapolis,IN,
+Haliburton,CE,Homer City,PA,
+Schlumberger,CE,Bakersfield ,CA,
+Walsh Construction,CE,Cannonsburg,PA,
+Alcoa,CHE,Whitehall,MI,A
+Alcoa Howmet,CE,Whitehall,MI,A
+Allison Transmission,ME,Indianapolis,IN,A
+Alpha Tech,CHE,Akron,OH,A
+Amazon,SE,Seattle,WA,A
+ArcelorMittal,CE,Burns Harbor,IN,A
+ArcelorMittal,EE,Burns Harbor ,IN,A
+ArcelorMittal,EE,Burns Harbor ,IN,A
+ArcelorMittal,ME,Burns Harbor,IN,A
+Avalon,SE,Austin,TX,A
+Bastian Material Handling,ME,St. Louis,IN,A
+Baxter Pharm,CHE,Bloomington,IN,A
+Bechtel Bettis,ME,Pittsburgh,PA,A
+Beckman Coulter,EE,Indianapolis,IN,A
+Blue Arc Engineering,ME,Greenfield,IN,A
+Boston Scientific,BE,Spencer,IN,A
+Boston Scientific,ME,Spencer,IN,A
+BrightPoint ,ME,Doral,FL,A
+Bristol Myers Squibb,CHE,Mt. Vernon,IN,A
+Bruner Corporation ,ME,Hillard,OH,A
+Burns & McDonnell,CHE,Downers Grove,IL,A
+Caterpillar,EE,Peoria,IL,A
+Caterpillar,ME,Peoria ,IL,A
+Caterpillar,ME,Lafayette,IN,A
+Chrysler,ME,Auburn Hills,MI,A
+Chrysler,ME,Auburn Hills,MI,A
+"Cook Urological, Inc.",BE,Bloomington,IN,A
+Cummins,ME,Seymour,IN,A
+Cummins,ME,Columbus ,IN,A
+Cummins Inc,EE,Columbus,IN,A
+Cyan Optics,ME,Petaluma,CA,A
+Cyan Optics,SE,Petaluma,CA,A
+Cyan Optics,SE,Petaluma,CA,A
+Delivera,CS,Indianapolis,IN,A
+Dow Chemical,CHE,Freeport,TX,A
+Dow Chemical,CHE,Midland ,MI,A
+Dresser,ME,Chicago,IL,A
+Eli Lilly,CHE,Indianapolis,IN,A
+Eli Lilly,CHE,Indianapolis,IN,A
+Eli Lilly,ME,Indianapolis,IN,A
+Enerdel,CHE,Indianapolis,IN,A
+Enova,SE,Chicago,IL,A
+Epic,BE,Madison ,WI,A
+Epic,CHE,Madison ,WI,A
+ExactTarget,SE,Indianapolis,IN,A
+ExxonMobil,ME,Baytown,TX,A
+Faurecia Emissions Control Technologies,ME,Columbus,IN,A
+GE Appliances,ME,Louisville,KY,A
+GE Aviation,ME,Cincinnati,OH,A
+GE Aviation,ME,Evandale,OH,A
+GE Aviation,ME,Cincinnati,OH,A
+GE Aviation,ME,West Chester,OH,A
+GE Aviation,ME,Cincinnati,OH,A
+Geneca,CS,Oakbrook Terrace,IL,A
+Geneca,SE,Oakbrook Terrace,IL,A
+General Motors,ME,Indianapolis,IN,A
+Grange Insurance,MA,Columbus,OH,A
+Green Hills Software,CS,Santa Barbara,CA,A
+Halliburton,CE,Montgomery,PA,A
+Halliburton,CE,Montgomery,PA,A
+Halliburton,CHE,Houston,TX,A
+Halliburton,ME,Kilgore,TX,A
+Halliburton,ME,Carmichaels,PA,A
+HallStar,CHE,Chicago,IL,A
+Honeywell ,EP,Kansas City,KS,A
+IBM,EP,Burlington ,VT,A
+InfoDynamics,CS,Indianapolis,IN,A
+International Paper,EE,Springfield,OR,A
+International Paper,ME,Texarkana,TX,A
+JW Hicks,ME,Merrillville,IN,A
+Lexmark ,CPE,Lexington,KY,A
+Lexmark ,CS,Lexington,KY,A
+Lexmark ,ME,Lexington,KY,A
+LGS Innovations,EE,Florham Park,NJ,A
+Lockheed Martin,ME,Orlando,FL,A
+Macauley Brown,ME,Dayton,OH,A
+Medivative Technologies,BE,Indianapolis,IN,A
+Merom Power Plant,ME,Merom,IN,A
+Messer,CE,Cincinnati,OH,A
+Microchip,EE,Phoenix,AZ,A
+Microsoft,CPE,Redmond,WA,A
+Microsoft,CS,Redmond,WA,A
+MIT Lincoln Labs,EE,Boston,MA,A
+Mobi,CS,Indianapolis,IN,A
+Moffat & Nichol,CE,Norfolk,VA,A
+n-ASK,SE,Denver ,CO,A
+National Instruments,BE,Houston,TX,A
+National Instruments ,BE,Austin,TX,A
+Navistar,EE,Lyle,IL,A
+Navistar,ME,Lyle,IL,A
+Navistar,ME,Lyle,IL,A
+Navistar,ME,Lyle,IL,A
+Northrop Grumman,SE,Cincinnati,OH,A
+Obtiva,SE,Chicago,IL,A
+Optiver US LLC,BE,Chicago,IL,A
+Oshkosh Corp,ME,Oshkosh,WI,A
+Oshkosh Defense,ME,Oshkosh,WI,A
+P&G,CHEM,Cincinnati,OH,A
+P&G,ME,Beckett Ridge,OH,A
+Peabody Energy,ME,Evansville,IN,A
+Performance Validation,BE,Indianapolis,IN,A
+Peyton Technical,EE,Cordyn,IN,A
+PMG,ME,Columbus,IN,A
+Power Systems MFG,ME,Jupiter,FL,A
+QRM,SE,Chicago,IL,A
+Raytheon,EP,Fort Wayne,IN,A
+Raytheon,SE,Indianapolis,IN,A
+Remy International,ME,Pendleton,IN,A
+Ricardo,ME,Belleville,MI,A
+Rockwell Collins,CPE,Cedar Rapids,IA,A
+Rockwell Collins,CPE,Cedar Rapids,IA,A
+Rockwell Collins,EE,Cedar Rapids,IA,A
+Rockwell Collins,SE,Cedar Rapids,MI,A
+Rockwell Collins  ,EE,Cedar Rapids,IA,A
+Rolls-Royce,ME,Indianapolis,IN,A
+Rolls-Royce,ME,Indianapolis,IN,A
+Schlumberger,EE,Denver ,CO,A
+Schlumberger,ME,Houston,TX,A
+Schlumberger,ME,Shreveport,LA,A
+Schlumberger,ME,Denver ,CO,A
+Siemens,ME,Orlando,FL,A
+SPX,CHE,Rochester,NY,A
+State Farm,MA,Bloomington,IN,A
+Technifab,ME,Brazil,IN,A
+Texas Instruments,CPE,Dallas,TX,A
+Texas Instruments,CPE,Dallas,TX,A
+Texas Instruments,EE,Dallas,TX,A
+Texas Instruments,EE,Plano,TX,A
+Texas Instruments,EE,Plano,TX,A
+Tinderbox,SE,Indianapolis,IN,A
+Tornier,BE,Warsaw,IN,A
+Toyota TEMA,ME,Georgetown,KY,A
+Valdes Engineering,CHE,Lombard,IL,A
+Valdes Engineering,CHE,Chicago,IL,A
+Valeo Sylvania,OE,Seymour,IN,A
+Wynright ,EE,Elk Grove Vlg,IL,A
+Anakam Identity Services,CPE,Arlington,VA,O
+Cummins,ME,Columbus,IN,O
+Frito Lay ,BE,Bakersfield,CA,O
+ORS,CPE,Indianapolis,IN,O
+ADM,CHE,Decatur,IL,R
+ADM,CHE,Decatur,IL,R
+ADM,ME,Galesburg,IL,R
+Alcoa,ME,Morristown ,IN,R
+Alcoa Howmet,ME,Whitehall,MI,R
+ArcelorMittal,CHE,Gary,IN,R
+ArcelorMittal,CS,Chicago,IL,R
+ArcelorMittal,SE,Chicago,IL,R
+Beckman Coulter,CPE,Indianapolis,IN,R
+Beckman Coulter,SE,Indianapolis,IN,R
+BSA LifeStructures ,EE,Chicago ,IL,R
+Caterpillar,ME,Peoria ,IL,R
+Caterpillar,ME,Lafayette,IN,R
+Chrysler,EE,Auburn Hills,MI,R
+Cummins,EE,Columbus,IN,R
+Cummins,ME,Columbus,IN,R
+Cummins,ME,Columbus ,IN,R
+Cummins,ME,Columbus ,IN,R
+Cummins,ME,Columbus ,IN,R
+Cummins Inc.,ME,Columbus,IN,R
+Delphi,ME,Kokomo,IN,R
+Eli Lilly,CHE,Clinton,IN,R
+Eli Lilly,CHE,Indianapolis,IN,R
+Enova,SE,Chicago,IL,R
+Enova,SE,Chicago,IL,R
+Enova,SE,Chicago,IL,R
+Epic,BE,Verona,WI,R
+Epic,BE,Madison ,WI,R
+Epic,BE,Madison,WI,R
+Epic,CS,Madison ,WI,R
+Epic,ME,Madison ,WI,R
+Frito-Lay,BE,Bakersfield,CA,R
+Frito-Lay,ME,Frankfort,IN,R
+Geneca,SE,Chicago,IL,R
+Halliburton,EE,Carmichaels ,PA,R
+Hazen & Sawyer,EE,Cincinatti ,OH,R
+Hensel Phelps,CE,Phoenix,AZ,R
+InDesign,CPE,Indianapolis,IN,R
+Indesign,EE,Indianapolis,IN,R
+Ingenia Polymers,CHE,Houston,TX,R
+Interactive Intelligence,CS,Indianapolis,IN,R
+International Paper,EE,Portland,OR,R
+Just5Clicks,CS,North Barrington,IL,R
+JW Hicks,ME,Merrillville,IN,R
+LHP,CPE,Columbus,IN,R
+Logan Aluminum ,CHE,Russellville,KY,R
+Microsoft,CS,Redmond,WA,R
+Microsoft,SE,Redmond,WA,R
+NASIC,EE,Dayton,OH,R
+National Instruments,BE,Austin,TX,R
+National Instruments,CS,Austin,TX,R
+National Instruments,ME,Austin,TX,R
+Navistar,ME,Warrenville,IL,R
+Nova Engineering,EE,Kennesaw,GA,R
+Novelis,EE,Fremont,WV,R
+Crane,EE,Virginia Beach,VA,R
+O-I,ME,Toledo,OH,R
+On Semiconductor,EE,East Greenwich,NJ,R
+Orthopediatrics,BE,Warsaw,IN,R
+Progressive,SE,Cleveland,OH,R
+QRM,SE,Chicago,IL,R
+Rockwell Collins,CPE,Cedar Rapids,MI,R
+Rockwell Collins,EE,Cedar Rapids,MI,R
+Scientia,CPE,Bedford,IN,R
+SI,EE,Valley Forge,PA,R
+Solar Turbines,ME,SanDiego ,CA,R
+SWRI,CS,San Antonio,TX,R
+SWRI,EE,San Antonio,TX,R
+Tri-Star Engineering,CPE,Bedford,IN,R
+Wynright ,ME,Indianapolis,IN,R
+Xby2,SE,Farmington Hills,MI,R
+Zebra Technologies,CPE,Chicago,IL,R
+ADM,CHE,Chatanooga ,TN,A
+Alcoa,ME,Whitehall,MI,A
+Alcoa Howmet,ME,LaPorte,IN,A
+Alcoa Howmet,ME,Whitehall,MI,A
+Aprimo,CS,Indianapolis,IN,A
+Archer Daniels Midland,CHE,Frankfort,IN,A
+Archer Daniels Midland,CHE,Clinton,IA,A
+ATC Associates,CE,Indianapolis,IN,A
+Balemaster,ME,Crown Point,IN,A
+Bastian Handling,ME,St. Louis,MO,A
+Belcan,ME,Cincinnati,OH,A
+Bemis,CHE,Oshkosh,WI,A
+Booz Allen Hamilton,SE,Annapolis Junction,MD,A
+Caterpillar,ME,Peoria,IL,A
+Cisco,CPE,Research Triangle Park,NC,A
+Cisco Systems,CPE,Raleigh,NC,A
+ColdCrete,CHE,Colorado Springs,CO,A
+ConocoPhillips,CHE,Houston,TX,A
+Cornerstone Controls,CHE,Indianapolis,IN,A
+Corradino,CE,Indianapolis,IN,A
+Coskata,CHE,Warrenville,IL,A
+Coskata,CHE,Warrenville,IL,A
+Cummins,ME,Columbus,IN,A
+Cummins,ME,Columbus,IN,A
+Cummins,ME,Columbus,IN,A
+Cummins  ,ME,Columbus,IN,A
+Dept. of Navy ,CHE,Washinton D.C.,,A
+Diesel Radiator,ME,Melrose,IL,A
+Domtar,CHE,Hawesville,KY,A
+Dow Chemical,CHE,Midland,MI,A
+Energy Northwest,CPE,Richland,WA,A
+Epic Systems,CPE,Madison,WI,A
+Epic Systems ,ME,Madison,WI,A
+Epsilen,CS,Indianapolis,in,A
+Exxon Mobil,CE,Houston,TX,A
+FAST Diagnostics,BE,Indianapolis,IN,A
+"FloSource, Inc.",ME,Martinsville,IN,A
+FM Global,CHE,Chicago,IL,A
+Frito-Lay,BE,Bakersfield,CA,A
+GE Aviation,ME,Cincinnati,OH,A
+GE Aviation,ME,Cincinnati,OH,A
+GE Aviation ,ME,Cincinnati,OH,A
+Gentex Corporation,ME,Zeeland,MI,A
+Green Hills Software,CPE,Santa Barbara,CA,A
+GSI Inc.,CE,Decatur,IL,A
+Halliburton,CE,Carmichaels,PA,A
+Halliburton,CHE,Hobbs,NM,A
+Halliburton,ME,Duncan,ok,A
+HALLIBURTON,ME,Grand Junction,CO,A
+Halliburton,ME,Dallas,TX,A
+Hensel Phelps Construction Company,CE,Phoenix,AZ,A
+Idaho National Nuclear Labs,MA,Idaho Falls,ID,A
+"Indesign, LLC",ME,Indianapolis,IN,A
+Ingersoll Rand,EE,Davidson,NC,A
+Interactive Intelligence,CS,Indianapolis,IN,A
+Interactive Intelligence,CS,Indianapolis,IN,A
+Interactive Intelligence,CS,Indianapolis,IN,A
+Interactive Intelligence,SE,Indianapolis,IN,A
+Interactive Intelligence,SE,Indianapolis,IN,A
+J.W.Hicks,ME,Merrillville,IN,A
+Jansen and Spaans,CE,Columbus,IN,A
+Johnson & Johnson,CHE,Skillman,NJ,A
+"Kraft Foods, Inc.",CHE,Glenview,IL,A
+Major Tool and Machine,ME,Indianapolis,IN,A
+Mead Johnson Nutrition,CHE,Zeeland,MI,A
+Messer Construction,CE,Indianapolis,IN,A
+Microchip,EE,Phoenix ,AZ,A
+Microsoft,CS,Redmond,WA,A
+Microsoft,CS,Redmond,WA,A
+Murphy Oil,CHE,El Dorado,AR,A
+Murphy Oil,CHE,El Dorado,AR,A
+Murphy Oil,CHE,El Dorado,AR,A
+NASIC,EE,Ft. Meade,MD,A
+n-ASK,EE,Farifax,VA,A
+NAVSEA,ME,Washington D.C.,,A
+NAVSEA,MA,Virginia Beach,VA,A
+NAVSEA,EE,Crane,IN,A
+NAVSEA,EE,Virginia Beach,VA,A
+NAVSEA,SE,Virginia Beach,VA,A
+NewPage,CHE,Whiting,WI,A
+Next Wave Systems,CS,Salem,IN,A
+NG-Xetron ,CPE,Cincinnati,OH,A
+Northtrop Grumman,ME,Orlando,FL,A
+NovaOptics Inc.,OE,Ramsey,NJ,A
+Novonics,CPE,Bloomington,IN,A
+NSA,EE,Ft. Meade,MD,A
+O-I,CHE,Toledo,OH,A
+O-I,ME,Toledo,OH,A
+Omni Oxide,CHE,Brazil,IN,A
+Orr Fellowship,CE,Indianapolis,IN,A
+Precision Chemical,CHE,Indianapolis,IN,A
+Procter & Gamble,CHE,Cincinnati,OH,A
+Procter & Gamble,CHE,Cape Giradeaux,MO,A
+Raytheon,ME,Indianapolis,IN,A
+Realmed,CS,Indianapolis,IN,A
+Rieth-Riley Construction,CE,Indianapolis,IN,A
+Rincon Research,EE,Tucson,AZ,A
+RK&K ,CE,Baltimore,MD,A
+Rockwell Collins,EE,Cedar Rapids,IA,A
+Rockwell Collins,EE,Cedar Rapids,IA,A
+Rockwell Collins,ME,Cedar Rapids,IA,A
+Rockwell Collins,ME,Cedar Rapids,IA,A
+Rolls-Royce,ME,Indianapolis,IN,A
+Rolls-Royce,ME,Indianapolis,in,A
+Rolls-Royce,ME,Indianapolis,IN,A
+Sargent and Lundy,ME,Chicago,IL,A
+Schlumberger,CHE,Balikpapan,Indonesia,A
+Schlumberger,CHE,Conway,AR,A
+SEP,CS,Carmel,IN,A
+SEP,CS,Carmel,IN,A
+Solar Turbines,ME,San Diego,CA,A
+Space Exploration Technologies,ME,McGregor,TX,A
+SpaceX,ME,McGregor,TX,A
+Texas Instruments,CPE,Dallas,TX,A
+Texas Instruments,EE,Dallas,TX,A
+Texas Instruments,ME,Dallas,TX,A
+Texas Instruments,ME,Dallas,TX,A
+ThermalTech,ME,Richland,MI,A
+Thysseun-Krupp,ME,Terre Haute,IN,A
+Timken,ME,Canton,OH,A
+Tredegar,CHE,Terre Haute,IN,A
+United Consulting,CE,Indianapolis,IN,A
+UOP,CHE,Chicago,IL,A
+US Army Corps of Engineering,CE,Jamestown,KY,A
+Veson Nautical ,SE,Boston,MA,A
+VoltAir Consulting Engineers ,ME,Tampa,FL,A
+WS Atkins Oil & Gas division ,ME,Houston,TX,A
+Xby2,CS,Farmington Hills,MI,A
+Dwyer,ME,Michigan City,IN,O
+ExaqTarget,ME,Indianapolis,IN,O
+Garmin,CS,Kansas City,KS,O
+NAVSEA,EE,Virginia Beach,VA,O
+Sunpower,ME,Athens,OH,O
+Alcoa,CHE,Morristown,TN,R
+Alcoa,ME,Murpheesboro,TN,R
+Alcoa,ME,Dover,NJ,R
+Alcoa Howmet,ME,Wichita Falls,TX,R
+Alcoa Howmet,CHE,Whitehall,MI,R
+Baker Hughes,CHE,Burleson,TX,R
+Baker Hughes,ME,Burleson,TX,R
+Belcan,ME,Indianapolis,IN,R
+Boston Scientific,ME,St. Paul,MN,R
+Caterpillar,ME,Peoria,IL,R
+ConnectSoft,CS,Louisville,KY,R
+ConnectSoft,SE,Louisville,KY,R
+Cummins,ME,Columbus,IN,R
+Dow Chemical,ME,Freeport,TX,R
+EchoStar,CPE,Denver,CO,R
+Epic Systems,ME,Verona,WI,R
+GPD,CE,Indianapolis,IN,R
+Halliburton,CHE,Rock Springs,WY,R
+"Hannum, Wagle, Cline",CE,Indianapolis,IN,R
+Harrison Steel Casting Company,ME,Attica,IN,R
+HNTB,CE,Indianapolis,IN,R
+Indiana Department of Education,CS,Indianapolis,IN,R
+Intel,CHE,Hudson,MA,R
+LGS,EE,Florham Park,NJ,R
+MC Dean,EE,Sterling,VA,R
+Murphy Oil,CHE,El Dorado,AR,R
+Nalco Company,CHE,Houston,TX,R
+NAVSEA ,EE,Virginia Beach,VA,R
+NAVSEA,EE,Virginia Beach,VA,R
+NewPage,ME,"Stevens Point, ",WI,R
+Next Wave Systems,CPE,Salem,IN,R
+NSA,EE,Ft. Meade,MD,R
+Outbound Technologies Inc,BE,New Hudson,MI,R
+Rincon Research Corporation,EE,Tucson,AZ,R
+Rockwell Collins,EE,Cedar Rapids,IA,R
+Rockwell Collins,EE,Cedar Rapids,IA,R
+Rockwell Collins,ME,Cedar Rapids,IA,R
+RW Armstrong,CE,Indianapolis,IN,R
+Siemens,ME,Orlando,FL,R
+Software Engineering Professionals,SE,Carmel,IN,R
+SPX (Flow Control),ME,Houston,TX,R
+Texas Instruments,EE,Dallas,TX,R
+Thysseun-Krupp,ME,Danville,IL,R
+University of Louisville,AB,Louisville,KY,R
+Whirlpool,ME,Marion,OH,R
+ADM,CHE,Cedar Rapids,IA,A
+ADM,ME,Frankfort,IN,A
+AIM,ME,Merrillville,IN,A
+Aircom,BE,Indianapolis,IN,A
+Alcoa,ME,Cleveland,OH,A
+Alcoa,ME,Cleveland,OH,A
+Allison Transmissions,CPE,Indianapolis,IN,A
+Allison Transmissions,EE,Indianapolis,in,A
+Allstate Insurance,MA ,Northbrook,IL,A
+Allstate Insurance,MA/ECON,Northbrook,IL,A
+Amadeus Consulting,SE,Boulder,CO,A
+American Structurepoint ,CE,Indianapolis,IN,A
+ANGEL Learning,CS,Indianapolis,IN,A
+ArcelorMittal,ME,Riverdale,IL,A
+Archer Daniels Midland,CHE,Marshall,MN,A
+Ascendant Engineering,CPE,Austin,TX,A
+Beckman Coulter,BE,Indianapolis,IN,A
+Beckman Coulter,ME,Indianapolis,IN,A
+Bemis,CHE,Osh Kosh,WI,A
+Bettis Labs,EE,Pittsburgh,PA,A
+Bettis Labs,ME,Charleston,SC,A
+Blu Arc Engineer,ME,Greenfield,IN,A
+BMW,EE,Spartanburg,SC,A
+Boston Scientific,CPE,St. Paul,MN,A
+Boston Scientific,EE,St. Paul,MN,A
+Burns & McDonnell,CHE,Kansas City,MO,A
+Burns & McDonnell,CHE,Kansas City,MO,A
+Burns & McDonnell,CHE,Kansas City,MO,A
+ConocoPhillips,ME,Houston,TX,A
+Cook Medical ,CHE,San Clemente,CA,A
+Crane NSWC,OE,Crane,IN,A
+Data Analysis Solutions,ME,Houston,TX,A
+Dow Chemical,CHE,Midland,MI,A
+Duke Energy ,EE,Edwardsport,IN,A
+Dynegy,EE,O'Fallon,IL,A
+Dynegy,ME,O'Fallon,IL,A
+Dynegy,ME,O'Fallon,IL,A
+Endress + Hauser,CHE,Greenwood,IN,A
+Epic,CPE,Madison,WI,A
+Epic,CS,Madison,WI,A
+Epic,SE,Madison,WI,A
+ExactTarget,SE,Indianapolis,IN,A
+Exxon,EE,Beaumont,TX,A
+Exxon Mobil,CE,Fairfax,VA,A
+Exxon Mobil,CHE,Houston,TX,A
+ExxonMobil,ME,Houston,TX,A
+"FH Pascen, SN Nielsen",CE,Los Angeles,CA,A
+Frito Lay,CPE,Bakersfield,CA,A
+Garmin International,CPE,Olathe,KS,A
+Garmong Construction,CE,Terre Haute,IN,A
+GE Aviation,ME,Cincinnati,OH,A
+GE Consumer and Industrial,ME,Louisville,KY,A
+General Cable ,EE,Highland Heights,KY,A
+"Gresham, Smith and Partners",CE,Knoxville,TN,A
+Haga Electric America,ME,Buffalo Grove,IL,A
+Halliburton ,CHE,Pampa,TX,A
+Hill-Rom Co.,BE,Batesville,IN,A
+HNTB Corporation,CHE,Indianapolis,IN,A
+Honeywell UOP,CHE,Chicago,IL,A
+Honeywell UOP,CHE,Chicago,IL,A
+IBM,SE,Westford,MA,A
+Interactive Intelligence,CS,Indianapolis,IN,A
+Interactive Intelligence,SE,Indianapolis,IN,A
+iRimsens,OE,Pittsburgh,PA,A
+Jedson Engineering,ME,Milford,OH,A
+Kiewet Southern,CE,Baltimore,MD,A
+Kimley-Horn,CE,Vero Beach,FL,A
+Kimley-Horn,CE,Vero Beach,FL,A
+Lexmark,CPE,Lexington,KY,A
+Lexmark,ME,Lexington,KY,A
+Lutron,EE,Coopersburg,PA,A
+Marathon Oil ,CE,Findlay,OH,A
+Marathon Oil ,CHE,Garyville,LA,A
+Marathon Oil ,CHE,Robinson,IL,A
+MD Wessler & Associates ,CE,Indianapolis,IN,A
+Moffatt & Nichol,CE,Norfolk,VA,A
+Moore Engineering,EE,Indianapolis,IN,A
+National Instruments,CPE,Austin,TX,A
+NAVSEA,CPE,Virgina Beach,VA,A
+NewPage,CHE,Wickliffe,KY,A
+Nicholson Construction Company,CE,Pittsburgh,PA,A
+NIPSCO ,CHE,West Terre Haute,IN,A
+Northrop Grumman ,ME,Woodland Hills,CA,A
+Northrop Grumman,CPE,Baltimore,MD,A
+NSWC Crane,EE,Crane,IN,A
+NSWC Crane,ME,Crane,IN,A
+NSWC Crane,ME,Crane,IN,A
+NSWC Crane,OE,Crane,IN,A
+NSWC Dam Neck,CPE,Virgina Beach,VA,A
+"ORS, Inc",CPE,Fishers,IN,A
+Performance Validation,BE,Indianapolis,IN,A
+Power Systems Manufacturing,ME,Jupiter,FL,A
+Proctor & Gamble,CHE,Avenel,NJ,A
+Proctor & Gamble,EE,Alexandria,LA,A
+Proctor & Gamble,ME,Cincinnati,OH,A
+PSM,ME,Jupiter,FL,A
+Raytheon,CPE,Indianapolis,IN,A
+Raytheon,CPE,Ft. Wayne,IN,A
+Raytheon,EE,Indianapolis,IN,A
+Raytheon,ME,Tucson,AZ,A
+Raytheon,ME,Woburn,MA,A
+Raytheon Missiles Systems ,ME,Tucson,AZ,A
+Raytheon Network Centric Systems,CPE,Ft. Wayne,IN,A
+Raytheon Technical Services Center,ME,Indianapolis,IN,A
+RealMed Corp.,SE,Indianapolis,IN,A
+Rincon,EE,Tucson,AZ,A
+Rolls-Royce,ME,Indianapolis,IN,A
+RW Armstrong,CE,Indianapolis,IN,A
+SDepartment of Defense ,EE,Baltimore,MD,A
+Siemens,ME,Orlando,FL,A
+Siemens ,ME,Miami,FL,A
+Siemens ,ME,Orlanda,FL,A
+Siemens Wind Power,ME,Houston,TX,A
+Simma Software Inc.,CPE,Terre Haute,IN,A
+South West Research Institute,ME,San Antonio ,TX,A
+Southwest Research Institute,CPE,San Antonio ,TX,A
+Southwest Research Institute ,MA,San Antonio,TX,A
+SPX,ME,Rochester,NY,A
+St. Jude Medical,BE,Indianapolis,IN,A
+Stanley Security,ME,Indianapolis,IN,A
+Strand Associates,CHE,Columbus,IN,A
+Stryker Orthopaedics,BE,Mahwah,NJ,A
+Sunpower ,EP,Athens,OH,A
+Technology Service Corp,EE,Bloomington,IN,A
+Texas Instruments,EE,Dallas,TX,A
+Thomson ,CPE,Indianapolis,in,A
+Toyota,ME,Erlanger,KY,A
+Toyota,ME,Erlanger,KY,A
+Toyota,ME,Erlanger,KY,A
+Toyota,ME,Erlanger,KY,A
+,ME,Michigan City,IN,A
+,ME,Pittsburgh ,PA,A
+,ME,Wright Patterson AFB ,OH,A
+,CS,Cincinnati,OH,A
+Archer Daniels Midland,CHE,Memphis,TN,O
+Diversified Systems,CHE,Indianapolis,IN,O
+Timken,ME,Canton,OH,O
+,ME,Pittsburgh,PA,O
+,CE,Pittsburgh,PA,O
+ADM,CHE,Decatur,IL,R
+Aerospace Systems Center,EE,Dayton,OH,R
+Aprimo,SE,Indianapolis,IN,R
+Archer Daniels Midland,CHE,Fosteria,OH,R
+Belcan,ME,Cincinnati,OH,R
+"Blue Horseshoe Solutions, Inc",SE,Carmel,IN,R
+Blue Horshoe Solutions,SE,Carmel,IN,R
+Boston Scientific,BE,Spencer,IN,R
+Burns & McDonnell,ME,Kansas City,MO,R
+Burns & McDonnell,ME,Kansas City,MO,R
+Caskata,ME,Chicago,IL,R
+Caterpillar,CPE,Mossville,IL,R
+ConocoPhillips,ME,Terre Haute,IN,R
+Cummins,CPE,Columbus,IN,R
+Cummins,ME,Columbus,IN,R
+Cummins,ME,Columbus,IN,R
+Cummins,ME,Columbus,IN,R
+Dannon,CHE,Minster,OH,R
+Delphi E & S,CPE,Kokomo,IN,R
+Dow Chemical,CHE,Midland,MI,R
+Dow Chemical,CHE,Midland,MI,R
+Duke Energy ,EE,Edwardsport,IN,R
+Duke Energy ,EE,Edwardsport,IN,R
+Dynegy,EE,Houston,TX,R
+Exterran,ME,Houston,TX,R
+Exxon Mobil,CHE,Houston,TX,R
+Exxon Mobil,EE,Houston,TX,R
+ExxonMobil,ME,Fairfax,VA,R
+Garmin International,EE,Olathe,KS,R
+General Cable,CHE,Marshall,TX,R
+General Motors,ME,Indianapolis,IN,R
+Halliburton ,ME,Odessa,TX,R
+Ingersol Rand,ME,Lexington ,KY,R
+Ingersol Rand,ME,Lexington ,KY,R
+Interactive Intelligence,CS,Indianapolis,IN,R
+Johnson & Johnson,CHE,New Brunswick,NJ,R
+Lexmark,ME,Lexington,KY,R
+Liberty Mutual,CS,Warsau,WI,R
+Lutron,CPE,Coopersburg,PA,R
+MC Dean,EE,Dulles,VA,R
+MD Wessler * Assoc.,CE,Indianapolis,IN,R
+Moffatt & Nichol,CE,Walnut Creek,CA,R
+National Instruments,CPE,Austin,TX,R
+Northrop Grumman,EE,Baltimore,MD,R
+Northrop Grumman ,CPE,Baltimore,MD,R
+Northrup Grumman,SE,Cincinnati,OH,R
+Nortrop Grumman,CPE,Baltimore,MD,R
+NSWC Dam Neck,CPE,Virgina Beach,VA,R
+NSWC Dam Neck ,CPE,Virgina Beach,VA,R
+Nucor Steel ,CE,Waterloo ,IN,R
+ON Semi,EE,East Greenwich,RI,R
+Power Systems Manufacturing,ME,Jupiter,FL,R
+Power Systems Manufacturing,ME,Jupiter,FL,R
+Raytheon,EE,Ft. Wayne,IN,R
+Raytheon,ME,Ft. Wayne,IN,R
+Research in Motion,CPE,Chicago,IL,R
+Research in Motion,ME,Chicago,IL,R
+Rockwell Collins,EE,Cedar Rapids,IA,R
+Rockwell Collins,CPE,Cedar Rapids,IA,R
+Rockwell Collins,SE,Cedar Rapids,IA,R
+Rolls-Royce,ME,Indianapolis,IN,R
+RW Armstrong,CE,Indianapolis,IN,R
+"Schreiber Foods, Inc.",BE,Shippensburg,PA,R
+SEP,SE,Carmel,IN,R
+Software Engineering Professionals,CS,Carmel,IN,R
+Solar Turbines,ME,San Diego,CA,R
+Southwest Research Institute,EE,San Antonio,TX,R
+SWRI,CPE,San Antonio,TX,R
+SWRI,SE,San Antonio,TX,R
+Tate and Lyle,CHE,Decatur,IL,R
+Texas Instruments,EE,Kansas City,MO,R
+Texas Instruments,EE,Houston,TX,R
+Texas Instruments,EE,Houston,TX,R
+United Space Alliance,ME,Houston,TX,R
+,CHE,Des Plaines,IL,R
+,ME,Houston,TX,R
+,SE,Farmington Hills,MI,R
+Caterpillar,CPE,Peoria,IL,rescinded
+Caterpillar,ME,Peoria,IL,rescinded
+Diversified Systems,ME,Indianapolis,IN,rescinded
